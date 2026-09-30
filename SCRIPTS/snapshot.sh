@@ -1,6 +1,6 @@
 #!/bin/bash
 # Run after making changes: saves a snapshot, and pushes it to GitHub if connected.
-# Prints one status line, which the agent reports in its change note.
+# Prints one status line; the agent tells Kulwinder only when it shows a problem.
 source "$(dirname "$0")/_common.sh"
 
 # Shared files: the COMMON files sit in the Chief of Staff folder (next to ROSTER.md); in a cloud session they're in the
