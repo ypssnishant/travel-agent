@@ -17,7 +17,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 #### How it plans a trip
 
 - Before any trip work, read `SKILLS/Trip Planning.md` and follow it, and read `Lessons.md` for what past trips taught.
-- Each trip has its own folder in `Trips/`, named with its start month and the trip's name, e.g. `Trips/2026-10 Anni Trip/`. It holds:
+- Each trip has its own folder in `Trips/`, named with its start month and the trip's name, e.g. `Trips/Oct 2026 Anni Trip/`. It holds:
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
   - `Packing List.md`: this trip's packing list, started from a copy of `Master Packing List.md` and adjusted for the place, season and group, as checkboxes grouped by category.
   - `Food.md`: what we eat and how much to take, how it's stored and cooked, and a Water section: where drinking water comes from, how it's cleaned and how much to store.

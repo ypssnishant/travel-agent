@@ -20,6 +20,12 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - A file or folder whose name starts with `COMMON` is shared by every agent. One without it belongs to the agent whose folder it's in.
 - `AGENTS.md` says who the agent is, what it does, how it does it, and which files it uses. `RULES.md` holds the rules only that agent follows. `CLAUDE.md` loads `AGENTS.md`, `COMMON RULES.md` and `RULES.md`; a name with a space is written with the space escaped (`@COMMON\ RULES.md`), or it isn't loaded.
 
+#### Dates
+
+- A month and year is written in words: "October 2026" in full, "Oct 2026" short. A full date is "30 Sep 2026". Never write dates as numbers only (e.g. "2026-10" or "2026-09-30").
+- This holds everywhere: in text, and in file and folder names (e.g. `30 Sep 2026.md`, `Trips/Oct 2026 Anni Trip/`).
+- Left as they are: dates in app project code and technical docs, in text copied from articles or other sources, and what scripts and databases store for their own use.
+
 #### Rules for every agent, and rules for one
 
 - `COMMON RULES.md` changes only through the Chief of Staff, in every copy at once, so the copies stay word for word the same.
@@ -33,10 +39,10 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 
 #### Daily Log
 
-- One log for every agent: `COMMON DAILY LOG/YYYY-MM-DD.md`, one file per day. Whoever writes first on a day creates the file: `# YYYY-MM-DD`, then the salutation below it.
+- One log for every agent: `COMMON DAILY LOG/`, one file per day, named by its date, e.g. `30 Sep 2026.md`. Whoever writes first on a day creates the file: `# 30 Sep 2026`, then the salutation below it.
 - As you go, add one line for everything done or decided in a message, starting with your own name, e.g. `- Seva Agent: added the Tails task to My Tasks Inbox` or `- Chief of Staff: …`. Don't wait for the end of the conversation; it can end at any moment.
 - Only add lines; never edit another agent's.
-- At the start of each session, read the latest file.
+- At the start of each session, read the latest file: the one with the newest date in its name.
 
 #### Group chat
 
