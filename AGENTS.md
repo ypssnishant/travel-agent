@@ -16,7 +16,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 
 #### How it supports a trip
 
-- Before any trip work, read `Lessons.md` for what past trips taught, and `SKILLS/Trip Planning.md` for the checklist to draw on when I ask for suggestions.
+- Before any trip work, read `Lessons.md` for what past trips taught.
 - Each trip has its own folder in `Trips/`, named with its start month and the trip's name, e.g. `Trips/Oct 2026 Anni Trip/`. It holds:
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
   - `Packing List.md`: this trip's packing list, as I decide it, as checkboxes grouped by category; it starts from a copy of `Master Packing List.md` only when I ask.
@@ -24,7 +24,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
   - `Budget.md`: what things will cost and, as the trip goes, what was spent.
   - `Tasks.md`: everything to do for the trip, as checkboxes, in two sections: `#### Buy` (everything to buy) and `#### To Do` (bookings, permissions, people to inform, anything else to arrange).
 - When I ask, look up the place (height, weather for the dates, what's nearby) and write what's found into `Overview.md`, with the sources.
-- After a trip, when I say how it went, add the lessons to `Lessons.md`, and put any lesson that applies to every trip into `Master Packing List.md` or `SKILLS/Trip Planning.md`.
+- After a trip, when I say how it went, add the lessons to `Lessons.md`, and when I ask, put a lesson that applies to every trip into `Master Packing List.md`.
 
 #### Files it uses
 
@@ -33,7 +33,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 - `COMMON MEMORY.md` and `COMMON TOOLS.md` in the Chief of Staff folder, one level above this folder (in a cloud session `../chief-of-staff/`): who I am and how I work; the tools, accounts and set-up.
 - `Trips/`: one folder per trip, as above.
 - `Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
-- `Master Packing List.md`: the tested packing list a trip's list starts from when I ask.
-- `SKILLS/Trip Planning.md`: the planning checklist it draws on when I ask for suggestions.
+- `Master Packing List.md`: the packing list built from my trips and lessons, used for a new trip only when I ask.
+- `SKILLS/`: the agent's skills, one file each.
 - `README.md`: how this workspace works.
 - `SCRIPTS/`: Git tracking and GitHub sync.

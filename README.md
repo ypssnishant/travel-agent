@@ -13,8 +13,8 @@ The Travel Agent supports Kulwinder's planning of trips and tours, seva or perso
 - `CLAUDE.md`: loads `AGENTS.md`, `COMMON RULES.md` and `RULES.md` into Claude.
 - `Trips/`: one folder per trip, named with its start month and name (e.g. `Oct 2026 Anni Trip/`), each holding `Overview.md`, `Packing List.md`, `Food.md` (water inside), `Budget.md` and `Tasks.md` (Buy and To Do).
 - `Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
-- `Master Packing List.md`: the tested packing list a trip's list starts from when Kulwinder asks.
-- `SKILLS/Trip Planning.md`: the planning checklist the agent draws on when Kulwinder asks for suggestions.
+- `Master Packing List.md`: the packing list built from Kulwinder's trips and lessons, used for a new trip only when he asks.
+- `SKILLS/`: the agent's skills, one file each.
 - The shared files in the Chief of Staff folder (in a cloud session, the `chief-of-staff` repo cloned next to this folder as `../chief-of-staff`): `COMMON MEMORY.md`, `COMMON TOOLS.md`, `COMMON GROUPCHAT.md`, `COMMON REMINDERS.md`, `COMMON IDEAS.md`, `COMMON REMEMBER/`, `COMMON DAILY LOG/` (one file per day, where this agent's lines start with `Travel Agent:`) and `COMMON ASSETS/` (media, in Dropbox only).
 - `SCRIPTS/`: Git tracking and GitHub sync. `snapshot.sh` commits and pushes to GitHub, always to `master` (plus a plain push of a cloud session's own branch); `whats-changed.sh` shows changes since the last snapshot, open group chat messages for this agent and reminders due within 3 days; both scripts also sync the `COMMON` files with GitHub, on the Mac and in the cloud; `connect-github.sh` connects a GitHub repo; `_common.sh` is shared setup.
 - `.claude/settings.json` runs the scripts automatically in Claude; `.gitignore` sets what Git tracks.
