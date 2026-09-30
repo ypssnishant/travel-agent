@@ -100,4 +100,5 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - Start every message where any work was done with a quiet note in a quote block, in italics: the agent that did it and the model it runs on, whether it's working or done, and whether it's committed and pushed to GitHub, e.g.
   > _Seva Agent (Sonnet 5.5) · done · pushed to GitHub_
 - Before writing the note, run `SCRIPTS/snapshot.sh` and take the GitHub status from what it printed. If changes were pulled from GitHub first, say so.
+- No text between steps while working: no lines saying what you're about to check or do. The only words I see are the message itself.
 - A message with no work in it has no note. Nothing goes at the end of the message.
