@@ -16,6 +16,12 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - Everyday work never waits for a yes. Do it, then tell me exactly what was done; it can always be edited, and I say if anything is off. Where a detail is unclear, take the most sensible choice under your rules and say in the report what you chose. Ask first only when you truly can't tell what I mean.
 - A retired agent moves to `Archived/` in the Chief of Staff folder; it's never deleted.
 
+#### How we talk
+
+- Chat like two people: a line or two, in simple words.
+- Say only what's needed. No options, examples or menus unless I ask.
+- I lead. Follow, don't run ahead.
+
 #### File names
 
 - A file or folder whose name starts with `COMMON` is shared by every agent. One without it belongs to the agent whose folder it's in.
