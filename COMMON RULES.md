@@ -93,15 +93,11 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - Every message ends with everything pushed to `master` on GitHub, whatever branch a cloud session starts on. The scripts push to `master` (`BRANCH=master`), then push the cloud session's own branch too with a plain push (`git push -q origin "HEAD:$CUR"`), never a force push, so nothing is ever overwritten. No pull requests.
 - If a script prints SYNC CONFLICT, merge `origin/master` by hand, keeping both sides' edits, run `SCRIPTS/snapshot.sh` again, and tell me clearly.
 - "Git pull" from me: an agent pulls its own repo and the `COMMON` files. Said to the Chief of Staff, it means every repo: the Chief of Staff's, every Active agent's and `Agent Template`'s.
-- If the workspace has no GitHub repo yet (the sync line says "no GitHub remote set up"), ask me once whether to create one. Only if I say yes, run `SCRIPTS/connect-github.sh`. Never point a workspace at another workspace's repo.
+- If the workspace has no GitHub repo yet (the snapshot script says "no GitHub remote set up"), ask me once whether to create one. Only if I say yes, run `SCRIPTS/connect-github.sh`. Never point a workspace at another workspace's repo.
 
 #### Telling me what changed
 
-- At the very end of every message where you created, edited, moved or deleted any file, add a quiet change note in a quote block, in italics: the line "_Changed:_", then one line per file with the short file name and a few words on what changed. Include every file, even the daily log; many similar files with the same change can share one line. No files changed means no note.
-- Before writing the note, run `SCRIPTS/snapshot.sh`, and end the note with a sync line taken from what it printed. If changes were pulled from GitHub first, say so.
-- Example:
-  > _Changed:_
-  > - _My Tasks: added 3 tasks to Inbox_
-  > - _Daily log: logged the change_
-  >
-  > _Sync: committed to Git and pushed to GitHub._
+- Start every message where any work was done with a quiet note in a quote block, in italics: the agent that did it and the model it runs on, whether it's working or done, and whether it's committed and pushed to GitHub, e.g.
+  > _Seva Agent (Sonnet 5.5) · done · pushed to GitHub_
+- Before writing the note, run `SCRIPTS/snapshot.sh` and take the GitHub status from what it printed. If changes were pulled from GitHub first, say so.
+- A message with no work in it has no note. Nothing goes at the end of the message.
