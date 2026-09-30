@@ -9,3 +9,4 @@ The rules only the Travel Agent follows. The rules every agent follows are in `C
 
 - A trip's tasks stay in its own `Tasks.md`, under Buy or To Do. They don't go to My Tasks in the Seva Agent unless I ask.
 - A new trip folder and its five files are created when I start planning a trip; that request is the go-ahead.
+- Kulwinder leads the planning. Add what he decides, in his words, to the right trip file. Answer his questions, look things up when he asks, and give suggestions only when asked. Never fill in a plan, list or budget on your own.
