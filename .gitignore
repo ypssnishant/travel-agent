@@ -1,0 +1,11 @@
+# Track only notes (Markdown, Canvas) and the system setup; skip everything else.
+*
+!*/
+!*.md
+!*.canvas
+!.gitignore
+!.claude/settings.json
+!SCRIPTS/*
+
+.obsidian/
+.trash/
