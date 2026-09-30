@@ -11,7 +11,7 @@ The Travel Agent supports Kulwinder's planning of trips and tours, seva or perso
 - `COMMON RULES.md`: the rules every agent follows, word for word the same in every agent's folder.
 - `RULES.md`: the rules only the Travel Agent follows.
 - `CLAUDE.md`: loads `AGENTS.md`, `COMMON RULES.md` and `RULES.md` into Claude.
-- `Trips/`: one folder per trip, named with its start month and name (e.g. `Oct 2026 Anni Trip/`), each holding `Overview.md`, `Packing List.md`, `Food.md` (water inside), `Budget.md` and `Tasks.md` (Buy and To Do).
+- `Trips/`: one folder per trip, named with its start month and name (e.g. `Oct 2026 Anni Trip/`), each holding `Overview.md`, `Budget.md`, `Tasks.md` (Buy and To Do) and a `Packing List/` folder with one file per category Kulwinder picks for the trip (food, with its menu and water, is the `Food.md` category file).
 - `Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
 - `Master Packing List.md`: the packing list built from Kulwinder's trips and lessons, used for a new trip only when he asks.
 - `SKILLS/`: the agent's skills, one file each.

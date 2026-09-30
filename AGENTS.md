@@ -19,8 +19,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 - Before any trip work, read `Lessons.md` for what past trips taught.
 - Each trip has its own folder in `Trips/`, named with its start month and the trip's name, e.g. `Trips/Oct 2026 Anni Trip/`. It holds:
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
-  - `Packing List.md`: this trip's packing list, as I decide it, as checkboxes grouped by category; it starts from a copy of `Master Packing List.md` only when I ask.
-  - `Food.md`: what we eat and how much to take, how it's stored and cooked, and a Water section: where drinking water comes from, how it's cleaned and how much to store.
+  - `Packing List/`: one file per category I pick for the trip (e.g. `Food.md`, `Bedding.md`, `Editing on the Go.md`), each holding that category's list as I decide it, as checkboxes. Food, with its menu, rations, utensils, cookware and water, is the `Food.md` category file. The list starts from a copy of `Master Packing List.md` only when I ask.
   - `Budget.md`: what things will cost and, as the trip goes, what was spent.
   - `Tasks.md`: everything to do for the trip, as checkboxes, in two sections: `#### Buy` (everything to buy) and `#### To Do` (bookings, permissions, people to inform, anything else to arrange).
 - When I ask, look up the place (height, weather for the dates, what's nearby) and write what's found into `Overview.md`, with the sources.
