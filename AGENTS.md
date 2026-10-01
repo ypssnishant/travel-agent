@@ -17,14 +17,14 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 #### How it supports a trip
 
 - Before any trip work, read `Lessons.md` for what past trips taught.
-- Each trip has its own folder in `Trips/`, named with its start month and the trip's name, e.g. `Trips/Oct 2026 Anni Trip/`. It holds:
-  - An index note named after the folder (e.g. `Oct 2026 Anni Trip.md`), linking to Overview, Packing List, Budget and Tasks.
+- Each trip has its own folder in `Trips/`, named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `Trips/Anni Trip (Oct 2026)/`. It holds:
+  - An index note named after the folder (e.g. `Anni Trip (Oct 2026).md`), linking to Overview, Packing List, Budget and Tasks.
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
   - `Packing List/`: one file per category I pick for the trip (e.g. `Food.md`, `Bedding.md`, `Editing on the Go.md`), each holding that category's list as I decide it, as checkboxes, and an index note `Packing List.md` linking to them alphabetically. Food, with its menu, rations, utensils, cookware and water, is the `Food.md` category file. The list starts from a copy of `Master Packing List.md` only when I ask.
   - `Budget.md`: what things will cost and, as the trip goes, what was spent.
   - `Tasks.md`: everything to do for the trip, as checkboxes, in two sections: `#### Buy` (everything to buy) and `#### To Do` (bookings, permissions, people to inform, anything else to arrange).
 - When I ask, look up the place (height, weather for the dates, what's nearby) and write what's found into `Overview.md`, with the sources.
-- Every folder has an index note named after it, and every file below the top has a breadcrumb under the salutation linking to each index above it, top down, joined by ` › `. Links use full vault paths with an alias (e.g. `[[Travel Agent/Trips/Oct 2026 Anni Trip/Overview|Overview]]`), since the Obsidian vault is the Chief of Staff folder. When a trip, list or file is added, renamed or removed, the indexes and breadcrumbs are updated in the same turn.
+- Every folder has an index note named after it, and every file below the top has a breadcrumb under the salutation linking to each index above it, top down, joined by ` › `. Links use full vault paths with an alias (e.g. `[[Travel Agent/Trips/Anni Trip (Oct 2026)/Overview|Overview]]`), since the Obsidian vault is the Chief of Staff folder. When a trip, list or file is added, renamed or removed, the indexes and breadcrumbs are updated in the same turn.
 - After a trip, when I say how it went, add the lessons to `Lessons.md`, and when I ask, put a lesson that applies to every trip into `Master Packing List.md`.
 
 #### Files it uses
