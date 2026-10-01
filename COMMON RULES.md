@@ -50,6 +50,7 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 
 - One log for every agent: `COMMON DAILY LOG/`, one file per day, named by its date, e.g. `30 Sep 2026.md`. Whoever writes first on a day creates the file: `# 30 Sep 2026`, then the salutation below it.
 - As you go, add one line for everything done or decided in a message, starting with your own name, e.g. `- Seva Agent: added the Tails task to My Tasks Inbox` or `- Chief of Staff: …`. Don't wait for the end of the conversation; it can end at any moment.
+- Whatever needs my decision gets its own Daily Log line, starting with your name and then "Needs Kulwinder:", e.g. `- Seva Agent: Needs Kulwinder: owner for the Tails project`. The Chief of Staff's nightly report gathers these.
 - Only add lines; never edit another agent's.
 - At the start of each session, read the latest file: the one with the newest date in its name.
 
