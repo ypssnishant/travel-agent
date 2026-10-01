@@ -15,14 +15,16 @@
 - [ ] Cargo pants (3)
 - [ ] Casual T-shirts (3)
 - [ ] Casual trousers (2)
+- [ ] Track pants (2, optional, for indoor wear)
 
 #### Layers for Cold Nights
 
 - [ ] Woollen shawl to wear over a kurta (1)
 - [ ] Sweaters or fleece (2)
 - [ ] Warm padded jacket (1)
-- [ ] Thermal tops (2)
-- [ ] Thermal bottoms (2)
+- [ ] Half jacket (Baskit) (1)
+- [ ] Thermal tops (3)
+- [ ] Thermal bottoms (3)
 - [ ] Woollen cap that covers the ears (1)
 - [ ] Muffler (1)
 - [ ] Woollen gloves (1 pair)
@@ -55,3 +57,6 @@
 
 - [ ] Sun cap (1)
 - [ ] Laundry bag (1)
+- [ ] Belt (1)
+- [ ] Sadhna asan (1)
+- [ ] Sadhna blanket or shawl (1)
