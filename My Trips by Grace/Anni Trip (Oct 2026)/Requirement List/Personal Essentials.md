@@ -14,6 +14,7 @@
 - [ ] Facewash
 - [ ] Quick-dry towels (2) and a hand towel (1)
 - [ ] Comb
+- [ ] Hair Dryer
 - [ ] Nail cutter
 - [ ] Razor and blades, or a trimmer
 - [ ] Toilet paper (6 rolls)

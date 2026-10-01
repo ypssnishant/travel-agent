@@ -9,6 +9,5 @@
 - [ ] Charging cables
 - [ ] Multi-plug
 - [ ] Extension Boards
-- [ ] Electric Sandwich Maker
-- [ ] Hand Blender
+
 - [ ] Power adapters
