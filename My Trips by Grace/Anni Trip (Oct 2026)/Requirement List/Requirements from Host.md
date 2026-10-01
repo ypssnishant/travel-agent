@@ -5,17 +5,18 @@
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 
 
-Washroom
-- [ ] Mugs and buckets for washing
-- [ ] Drying rope
-- [ ] Phenyl
-- [ ] Bleaching powder
+#### Washroom
+
+- [ ] Mugs and buckets for washing (3 Set)
+- [ ] Geyser
+- [ ] Washing Machine
+- [ ] Toilet Cleaner
 
 #### Bedding
 
-- [ ] Gadde – 6
+- [ ] Gadde – 10
 - [ ] Pillows – 8
-- [ ] Bedsheets – 6
+- [ ] Bedsheets – 8
 - [ ] Razai / Kambal – 8
 
 ##### Kitchen Essentials
@@ -34,43 +35,27 @@ Washroom
 - [ ] Peeler
 - [ ] Chai Chhanni
 - [ ] Roti Box
-- [ ] Plates
-- [ ] Bowls
-- [ ] Glasses
-- [ ] Spoons
-- [ ] Jugs
-- [ ] Water Rabber / Camper
-- [ ] Dishwasher Soap
-- [ ] Scrub Pad
-
-#### Editing on the Go
+- [ ] Plates (6)
+- [ ] Bowls (4)
+- [ ] Glasses (12)
+- [ ] Spoons (12)
+- [ ] Jugs (2)
+- [ ] Water Rabber / Camper (1)
+- [ ] Dishwasher Soap (6)
+- [ ] Scrub (3)
 
 ##### Office Setup
 
-- [ ] Tables – 4
-- [ ] Chairs – 6
-- [ ] Extension Boards – 6
-
-#### Other Essentials
+- [ ] Tables – 2
+- [ ] Chairs – 4
 
 ##### House Essentials
 
 - [ ] Broom + Mop
+- [ ] Phenyl
 - [ ] Cloth hanging Space (Wire)
 - [ ] Cloth Clips
-- [ ] Mosquito repellent / All Out
 - [ ] Room Heater
-
-##### Bathroom Essentials
-
-- [ ] Geyser
-- [ ] Washing Machine
-- [ ] Bucket
-- [ ] Mug
-- [ ] Soap
-- [ ] Detergent
-- [ ] Cloth Cleaning Brush
-- [ ] Toilet Cleaner
 
 ##### Transport
 
@@ -79,12 +64,9 @@ Washroom
 #### Maharaj Ji Darbar & Sadhna Hall
 
 - [ ] Table – 1
-- [ ] White Chadar
 - [ ] Maharaj Ji Swaroop
-- [ ] Gadde (on Floor) – 4
-- [ ] Bed Sheet – 4
+- [ ] White Chadar
 - [ ] Arti Plate
-- [ ] Diya + Bati
-- [ ] Ghee / Sesame Oil
+- [ ] Diya + Bati + Oil
 - [ ] Match Box
-- [ ] Arti Speaker
+

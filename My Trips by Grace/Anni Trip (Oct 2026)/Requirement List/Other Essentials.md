@@ -11,3 +11,8 @@
 - [ ] Small padlock
 - [ ] Pen and notebook
 - [ ] Zip bags (20)
+- [ ] Extension Boards
+- [ ] Soap
+- [ ] Detergent
+- [ ] Cloth Cleaning Brush
+- [ ] Arti Speaker
