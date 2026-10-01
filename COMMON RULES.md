@@ -32,7 +32,7 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 #### Dates
 
 - A month and year is written in words: "October 2026" in full, "Oct 2026" short. A full date is "30 Sep 2026". Never write dates as numbers only (e.g. "2026-10" or "2026-09-30").
-- This holds everywhere: in text, and in file and folder names (e.g. `30 Sep 2026.md`, `Trips/Oct 2026 Anni Trip/`).
+- This holds everywhere: in text, and in file and folder names (e.g. `30 Sep 2026.md`, `Trips/Anni Trip (Oct 2026)/`).
 - Left as they are: dates in app project code and technical docs, in text copied from articles or other sources, and what scripts and databases store for their own use.
 
 #### Rules for every agent, and rules for one
