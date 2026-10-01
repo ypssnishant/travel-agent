@@ -12,3 +12,4 @@
 - [ ] Power adapters
 - [ ] Room Heater
 - [ ] Clothing Iron
+- [ ] Torches (2)

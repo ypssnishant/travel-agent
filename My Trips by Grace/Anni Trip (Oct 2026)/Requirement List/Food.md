@@ -60,6 +60,8 @@
 - [ ] Disposals
 - [ ] Strainer <span style="color: var(--text-faint)">(pasta, noodles)</span>
 - [ ] Grater <span style="color: var(--text-faint)">(raita, aloo patty)</span>
+- [ ] Electric Kettle
+- [ ] Plastic boxes with lids <span style="color: var(--text-faint)">(for the rations)</span>
 
 #### Buy Locally in Anni
 
