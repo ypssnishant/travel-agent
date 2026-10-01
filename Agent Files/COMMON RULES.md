@@ -3,14 +3,15 @@
 ##### ॐ श्री आशुतोषाय नमः
 
 
-The rules every one of my agents follows, the Chief of Staff included. This file is word for word the same in every agent's folder, in `Agent Template` and in the Chief of Staff folder, so each agent has it on the Mac and in a cloud session alike. An agent's own rules are in its `RULES.md`; where the two differ, its own rules win. Who the agent is and how it does its job are in its `AGENTS.md`.
+The rules every one of my agents follows, the Chief of Staff included. This file is word for word the same in every agent's `Agent Files/`, in `Agent Template` and in the Chief of Staff's `Agent Files/`, so each agent has it on the Mac and in a cloud session alike. An agent's own rules are in its `RULES.md`; where the two differ, its own rules win. Who the agent is and how it does its job are in its `AGENTS.md`.
 
 #### Agents and folders
 
 - One agent per job, each in its own folder, made from `Agent Template`. Never two agents writing to the same folder or file.
 - Naming: the folder is `<Purpose> Agent` in Title Case; its private GitHub repo (account `kulwinderypss`) is the same name in lowercase with dashes (e.g. `Notes Agent` → `notes-agent`).
 - The Chief of Staff folder holds the shared files. On the Mac it's `Chief of Staff/` in Dropbox, one level above every agent's folder. In a cloud session, attach the `chief-of-staff` repo with push access at the start and clone it next to your own folder as `../chief-of-staff`, unless it's already there.
-- Work folder: the files I work with (notes, tasks, trips, schedules and the like) live in one folder at the top of the agent's folder, named `My <Work> by Grace` (e.g. `My Notes by Grace/`, `My Trips by Grace/`). I mark it green in Obsidian. The top level holds only what the agent uses to run: `AGENTS.md`, `RULES.md`, `README.md`, `CLAUDE.md`, `COMMON RULES.md`, `SCHEDULES.md`, `SKILLS/`, `SCRIPTS/`, indexes and databases. An agent whose work lives elsewhere (e.g. in Gmail) has no work folder.
+- Work folder: the files I work with (notes, tasks, trips, schedules and the like) live in one folder at the top of the agent's folder, named `My <Work> by Grace` (e.g. `My Notes by Grace/`, `My Trips by Grace/`). I mark it green in Obsidian. An agent whose work lives elsewhere (e.g. in Gmail) has no work folder.
+- Agent Files: the top of an agent's folder holds only `CLAUDE.md`, `AGENTS.md`, its work folder and `Agent Files/`. `Agent Files/` holds everything else the agent uses to run: `RULES.md`, `COMMON RULES.md`, `README.md`, `SCHEDULES.md`, `SKILLS/`, `Agent Files/SCRIPTS/`, indexes and databases. The Chief of Staff's top also holds the shared `COMMON` files and `Nightly Reports/`. Hidden files (`.claude/`, `.git`, `.gitignore`, `.obsidian/`) stay at the top, out of sight in Obsidian.
 - Work only inside your own folder. Outside it, you may write only to the shared files: `COMMON MEMORY.md`, `COMMON TOOLS.md`, `COMMON GROUPCHAT.md`, `COMMON REMINDERS.md`, `COMMON IDEAS.md`, `COMMON REMEMBER/`, `COMMON DAILY LOG/` and `COMMON ASSETS/`. Never edit another agent's files; ask me, or leave it to the Chief of Staff.
 - New files and names: when we plan something new or structural, the plan names every new file, folder, session, routine and the like, and says where each goes. Files an agent makes in its everyday work under its own rules (a day's log or schedule file, a note, a task) need no ask.
 - Plan first, build on my word. For anything new or structural (new files, folders, layouts, rules, skills, agents, or changes to how things work), first plan it fully with me: options, layout, names, open questions. Nothing is created or changed until the plan is final and I give a build word: "Build it", "Go ahead" or "Do it". Then build exactly what we planned, nothing more. Everyday requests ("add this task", "remind me", "file this note", "put it on the calendar") are done straight away; the request itself is the go-ahead.
@@ -28,7 +29,7 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 #### File names
 
 - A file or folder whose name starts with `COMMON` is shared by every agent. One without it belongs to the agent whose folder it's in.
-- `AGENTS.md` says who the agent is, what it does, how it does it, and which files it uses. `RULES.md` holds the rules only that agent follows. `CLAUDE.md` loads `AGENTS.md`, `COMMON RULES.md` and `RULES.md`; a name with a space is written with the space escaped (`@COMMON\ RULES.md`), or it isn't loaded.
+- `AGENTS.md` says who the agent is, what it does, how it does it, and which files it uses. `RULES.md` holds the rules only that agent follows. `CLAUDE.md` loads `AGENTS.md`, and `COMMON RULES.md` and `RULES.md` from `Agent Files/`; a space in a path is escaped (`@Agent\ Files/COMMON\ RULES.md`), or it isn't loaded.
 
 #### Dates
 
@@ -57,13 +58,13 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 
 #### Group chat
 
-- Agents message each other in `COMMON GROUPCHAT.md`, following the terms at its top. `SCRIPTS/whats-changed.sh` shows your open messages at the start of each session and with each message I send.
+- Agents message each other in `COMMON GROUPCHAT.md`, following the terms at its top. `Agent Files/SCRIPTS/whats-changed.sh` shows your open messages at the start of each session and with each message I send.
 - Add lines only, and never edit anyone else's, except changing `open` to `done` or `needs Kulwinder` on a message addressed to you.
 
 #### Reminders
 
 - Things with a date that I want reminding of go in `COMMON REMINDERS.md`, following the terms at its top. Add one when I ask; if you notice something with a date, ask me before adding it.
-- From 3 days before the date, `SCRIPTS/whats-changed.sh` shows the reminder. The agent I'm chatting with mentions it at least once a day at a natural moment, not always at the start, then updates its `told` date.
+- From 3 days before the date, `Agent Files/SCRIPTS/whats-changed.sh` shows the reminder. The agent I'm chatting with mentions it at least once a day at a natural moment, not always at the start, then updates its `told` date.
 - Add lines there, and change only `open`, `done` and `told`.
 
 #### Ideas
@@ -93,14 +94,14 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 
 #### Syncing with GitHub
 
-- `SCRIPTS/whats-changed.sh` runs at the start of each session and before each message: it pulls from GitHub, reports what changed in other sessions and outside the agent (e.g. in Obsidian), shows open group chat messages and reminders due, and syncs the `COMMON` files. `SCRIPTS/snapshot.sh` runs after each reply: it commits and pushes, the `COMMON` files included. Claude runs both through `.claude/settings.json`; with other tools, run them yourself.
+- `Agent Files/SCRIPTS/whats-changed.sh` runs at the start of each session and before each message: it pulls from GitHub, reports what changed in other sessions and outside the agent (e.g. in Obsidian), shows open group chat messages and reminders due, and syncs the `COMMON` files. `Agent Files/SCRIPTS/snapshot.sh` runs after each reply: it commits and pushes, the `COMMON` files included. Claude runs both through `.claude/settings.json`; with other tools, run them yourself.
 - Every message ends with everything pushed to `master` on GitHub, whatever branch a cloud session starts on. The scripts push to `master` (`BRANCH=master`), then push the cloud session's own branch too with a plain push (`git push -q origin "HEAD:$CUR"`), never a force push, so nothing is ever overwritten. No pull requests.
-- If a script prints SYNC CONFLICT, merge `origin/master` by hand, keeping both sides' edits, run `SCRIPTS/snapshot.sh` again, and tell me clearly.
+- If a script prints SYNC CONFLICT, merge `origin/master` by hand, keeping both sides' edits, run `Agent Files/SCRIPTS/snapshot.sh` again, and tell me clearly.
 - "Git pull" from me: an agent pulls its own repo and the `COMMON` files. Said to the Chief of Staff, it means every repo: the Chief of Staff's, every Active agent's and `Agent Template`'s.
-- If the workspace has no GitHub repo yet (the snapshot script says "no GitHub remote set up"), ask me once whether to create one. Only if I say yes, run `SCRIPTS/connect-github.sh`. Never point a workspace at another workspace's repo.
+- If the workspace has no GitHub repo yet (the snapshot script says "no GitHub remote set up"), ask me once whether to create one. Only if I say yes, run `Agent Files/SCRIPTS/connect-github.sh`. Never point a workspace at another workspace's repo.
 
 #### Telling me what changed
 
 - The message is just the reply: no status line about which agent worked, its model, or GitHub.
-- Before replying, run `SCRIPTS/snapshot.sh`. Say so in the message only when something needs me: changes were pulled from GitHub first, a push failed, or a script printed SYNC CONFLICT.
+- Before replying, run `Agent Files/SCRIPTS/snapshot.sh`. Say so in the message only when something needs me: changes were pulled from GitHub first, a push failed, or a script printed SYNC CONFLICT.
 - No text between steps while working: no lines saying what you're about to check or do. The only words I see are the message itself.

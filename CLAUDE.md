@@ -2,5 +2,5 @@
 
 
 @AGENTS.md
-@COMMON\ RULES.md
-@RULES.md
+@Agent\ Files/COMMON\ RULES.md
+@Agent\ Files/RULES.md

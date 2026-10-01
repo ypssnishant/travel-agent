@@ -5,7 +5,7 @@
 !*.canvas
 !.gitignore
 !.claude/settings.json
-!SCRIPTS/*
+!Agent Files/SCRIPTS/*
 
 .obsidian/
 .trash/

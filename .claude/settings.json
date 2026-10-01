@@ -1,13 +1,13 @@
 {
   "hooks": {
     "SessionStart": [
-      { "hooks": [ { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR/SCRIPTS/whats-changed.sh\"", "timeout": 30 } ] }
+      { "hooks": [ { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR/Agent Files/SCRIPTS/whats-changed.sh\"", "timeout": 30 } ] }
     ],
     "UserPromptSubmit": [
-      { "hooks": [ { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR/SCRIPTS/whats-changed.sh\" --quiet", "timeout": 30 } ] }
+      { "hooks": [ { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR/Agent Files/SCRIPTS/whats-changed.sh\" --quiet", "timeout": 30 } ] }
     ],
     "Stop": [
-      { "hooks": [ { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR/SCRIPTS/snapshot.sh\"", "timeout": 30 } ] }
+      { "hooks": [ { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR/Agent Files/SCRIPTS/snapshot.sh\"", "timeout": 30 } ] }
     ]
   }
 }

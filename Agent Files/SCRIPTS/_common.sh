@@ -1,5 +1,5 @@
 # Shared setup for the workspace scripts. Sourced, not run directly.
-cd "$(dirname "$0")/.." || exit 0
+cd "$(dirname "$0")/../.." || exit 0
 export GIT_TERMINAL_PROMPT=0
 # A fresh copy of Agent Template still carries the template's Git history and GitHub link.
 # Drop them so the copy starts clean with its own history. The template itself (folder "Agent Template" on the Mac,

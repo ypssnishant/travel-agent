@@ -3,7 +3,7 @@
 ##### ॐ श्री आशुतोषाय नमः
 
 
-This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RULES.md`.
+This folder is the Travel Agent. It follows this file, `Agent Files/COMMON RULES.md` and `Agent Files/RULES.md`.
 
 #### Who the Travel Agent is
 
@@ -17,7 +17,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 #### How it supports a trip
 
 - Before any trip work, read `My Trips by Grace/Master Documents/Master Lessons.md` for what past trips taught.
-- Everything I work with is in the work folder `My Trips by Grace/` (marked green in Obsidian): its index, the `Master Documents/` folder and one folder per trip. The top level of this folder holds only the agent's own system files.
+- Everything I work with is in the work folder `My Trips by Grace/` (marked green in Obsidian): its index, the `Master Documents/` folder and one folder per trip. The top of this folder holds only `CLAUDE.md`, `AGENTS.md`, the work folder and `Agent Files/`, which holds the agent's own system files.
 - Each trip has its own folder in `My Trips by Grace/`, named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `My Trips by Grace/Anni Trip (Oct 2026)/`. It holds:
   - An index note named after the folder (e.g. `Anni Trip (Oct 2026).md`), linking to Overview, Requirement List, Budget and Tasks.
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
@@ -30,8 +30,12 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 
 #### Files it uses
 
-- `COMMON RULES.md`: the rules every agent follows, word for word the same in every agent.
-- `RULES.md`: the Travel Agent's own rules.
+- `CLAUDE.md`: loads this file, `Agent Files/COMMON RULES.md` and `Agent Files/RULES.md` into Claude.
+- `Agent Files/`: the agent's own system files:
+  - `COMMON RULES.md`: the rules every agent follows, word for word the same in every agent.
+  - `RULES.md`: the Travel Agent's own rules.
+  - `README.md`: how this workspace works.
+  - `SCRIPTS/`: Git tracking and GitHub sync.
 - `COMMON MEMORY.md` and `COMMON TOOLS.md` in the Chief of Staff folder, one level above this folder (in a cloud session `../chief-of-staff/`): who I am and how I work; the tools, accounts and set-up.
 - `My Trips by Grace/`: the work folder, holding everything I work with:
   - `My Trips by Grace.md`: the top index, linking to every trip (newest first), then the Master Documents index.
@@ -39,5 +43,3 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
     - `Master Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
     - `Master Requirement List.md`: the requirement list built from my trips and lessons, used for a new trip only when I ask.
   - One folder per trip, as above.
-- `README.md`: how this workspace works.
-- `SCRIPTS/`: Git tracking and GitHub sync.
