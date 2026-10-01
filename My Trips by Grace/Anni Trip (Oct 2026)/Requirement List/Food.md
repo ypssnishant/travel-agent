@@ -4,6 +4,37 @@
 
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 
+- [ ] Mustard Oil
+- [ ] Haldi
+- [ ] Long
+- [ ] Elaichi
+- [ ] Badi elaichi
+- [ ] Lal Mirch Powder
+- [ ] Zeera
+- [ ] Rai
+- [ ] Ajwain
+- [ ] Khand
+- [ ] Saunf
+- [ ] Chai patti
+- [ ] Soya Chunks (Nutri)
+- [ ] Black Chana
+- [ ] White Chana
+- [ ] Rice
+- [ ] Urd Dhuli Dal
+- [ ] Moong Dhuli Dal
+- [ ] Arhar Dal
+- [ ] Rajma
+- [ ] Macroni
+- [ ] Atta Maggi
+- [ ] Peanuts
+- [ ] Peanut Butter
+- [ ] Jam
+- [ ] Dry Bundi (Raita)
+- [ ] Sandwich Sauces (Red & White)
+- [ ] Coffee Pouches
+- [ ] Tea
+- [ ] Dry Pakora
+- [ ] Wheat Atta
 - [ ] Milk Powder
 - [ ] Namak and Kala Namak (Kala Namak for raita and chana salad)
 - [ ] Rajma Masala, Chhole Masala, Maggi Masala (for kulcha, rajma, noodles, nutri etc)
