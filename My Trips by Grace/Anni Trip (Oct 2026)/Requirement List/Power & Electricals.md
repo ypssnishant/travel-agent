@@ -4,12 +4,10 @@
 
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 
-- [ ] Headlamp with spare batteries
 - [ ] Power bank
 - [ ] Charger
 - [ ] Charging cables
 - [ ] Multi-plug
-- [ ] Hair Dryer
 - [ ] Extension Boards
 - [ ] Electric Sandwich Maker
 - [ ] Hand Blender
