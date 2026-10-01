@@ -16,3 +16,9 @@
 - [ ] Clothes pegs (10)
 - [ ] Garbage bags
 - [ ] Water bottle
+- [ ] Wiping cloths
+- [ ] Broom + mop
+- [ ] Bucket + mug
+- [ ] Clothesline
+- [ ] Toilet cleaner / phenyl
+- [ ] Matchbox
