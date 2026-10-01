@@ -29,7 +29,7 @@
 | Arhar Dal | 1.5 kg | 240 |
 | Rajma | 1.5 kg | 260 |
 | Macroni | 5 kg | 600 |
-| Atta Maggi | 100 small packets | 2,500 |
+| Atta Maggi | 20 packets | 500 |
 | Peanuts | 2 kg | 300 |
 | Peanut Butter | 2 kg | 800 |
 | Jam | 2 kg | 600 |
@@ -50,6 +50,6 @@
 | Soya Sauce and Vinegar | 700 ml each | 170 |
 | Ketchup, Oregano and Chilli Flakes | 2 kg, 100 g, 100 g | 520 |
 | Biscuits, Rusk or Namkeen | 6 kg | 1,200 |
-| Total |  | 19,440 |
+| Total |  | 17,440 |
 
 Rough retail prices; shops and brands will vary.

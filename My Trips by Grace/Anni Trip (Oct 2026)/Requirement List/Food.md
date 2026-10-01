@@ -27,7 +27,7 @@
 - [ ] Arhar Dal <span style="color: var(--text-faint)">(1.5 kg, double bags)</span>
 - [ ] Rajma <span style="color: var(--text-faint)">(1.5 kg, double bags)</span>
 - [ ] Macroni <span style="color: var(--text-faint)">(5 kg)</span>
-- [ ] Atta Maggi <span style="color: var(--text-faint)">(100 small packets)</span>
+- [ ] Atta Maggi <span style="color: var(--text-faint)">(20 packets)</span>
 - [ ] Peanuts <span style="color: var(--text-faint)">(2 kg)</span>
 - [ ] Peanut Butter <span style="color: var(--text-faint)">(2 kg)</span>
 - [ ] Jam <span style="color: var(--text-faint)">(2 kg)</span>
