@@ -4,45 +4,46 @@
 
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 
-- [ ] Mustard Oil
-- [ ] Haldi
-- [ ] Long
-- [ ] Elaichi
-- [ ] Badi elaichi
-- [ ] Lal Mirch Powder
-- [ ] Zeera
-- [ ] Rai
-- [ ] Ajwain
-- [ ] Khand
-- [ ] Saunf
-- [ ] Chai patti
-- [ ] Soya Chunks (Nutri)
-- [ ] Black Chana
-- [ ] White Chana
-- [ ] Rice
-- [ ] Urd Dhuli Dal
-- [ ] Moong Dhuli Dal
-- [ ] Arhar Dal
-- [ ] Rajma
-- [ ] Macroni
-- [ ] Atta Maggi
-- [ ] Peanuts
-- [ ] Peanut Butter
-- [ ] Jam
-- [ ] Dry Bundi (Raita)
-- [ ] Sandwich Sauces (Red & White)
-- [ ] Coffee Pouches
-- [ ] Tea
-- [ ] Dry Pakora
-- [ ] Wheat Atta
-- [ ] Milk Powder
-- [ ] Namak and Kala Namak (Kala Namak for raita and chana salad)
-- [ ] Rajma Masala, Chhole Masala, Maggi Masala (for kulcha, rajma, noodles, nutri etc)
-- [ ] Hing (for dal and kadhi)
-- [ ] Kali Mirch (for soup and pasta)
-- [ ] Tej Patta (for rajma and rice)
-- [ ] Besan (for kadhi, aloo pakora and the aloo patty)
-- [ ] Poha
-- [ ] Soya Sauce and Vinegar (for fried rice and noodles)
-- [ ] Ketchup, Oregano and Chilli Flakes (for macaroni)
-- [ ] Biscuits, Rusk or Namkeen (the snacks with early morning tea)
+- [ ] Mustard Oil (about 5 L, in a sealed can)
+- [ ] Haldi (about 250 g, in an airtight jar)
+- [ ] Long (about 50 g, in an airtight jar)
+- [ ] Elaichi (about 100 g, in an airtight jar)
+- [ ] Badi elaichi (about 50 g, in an airtight jar)
+- [ ] Lal Mirch Powder (about 250 g, in an airtight jar)
+- [ ] Zeera (about 250 g, in an airtight jar)
+- [ ] Rai (about 100 g, in an airtight jar)
+- [ ] Ajwain (about 200 g, in an airtight jar)
+- [ ] Khand (about 5 kg)
+- [ ] Saunf (about 100 g, in an airtight jar)
+- [ ] Chai patti (about 1.5 kg, for the daily chai)
+- [ ] Soya Chunks (Nutri) (about 1.5 kg)
+- [ ] Black Chana (about 2 kg, in double bags)
+- [ ] White Chana (about 2 kg, in double bags)
+- [ ] Rice (about 10 kg)
+- [ ] Urd Dhuli Dal (about 1.5 kg, in double bags)
+- [ ] Moong Dhuli Dal (about 1.5 kg, in double bags)
+- [ ] Arhar Dal (about 1.5 kg, in double bags)
+- [ ] Rajma (about 1.5 kg, in double bags)
+- [ ] Macroni (about 5 kg)
+- [ ] Atta Maggi (about 100 small packets)
+- [ ] Peanuts (about 2 kg)
+- [ ] Peanut Butter (about 2 kg)
+- [ ] Jam (about 2 kg)
+- [ ] Dry Bundi (Raita) (about 2 kg; for the dahi, buy milk locally and set it there, and on cold nights keep it near the heater so it sets)
+- [ ] Sandwich Sauces (Red & White) (about 1 kg each)
+- [ ] Coffee Pouches (about 60 pouches)
+- [ ] Tea (about 100 tea bags, for quick cups)
+- [ ] Dry Pakora (about 2 kg)
+- [ ] Wheat Atta (about 30 kg)
+- [ ] Aloo and Adrak for the first week (about 7 kg aloo and 250 g adrak, carried from base so we can cook on arrival)
+- [ ] Milk Powder (about 4 to 5 kg if there's no fresh milk)
+- [ ] Namak and Kala Namak (Kala Namak for raita and chana salad) (about 2 kg namak and 250 g kala namak, in airtight jars)
+- [ ] Rajma Masala, Chhole Masala, Maggi Masala (for kulcha, rajma, noodles, nutri etc) (about 200 g each, in airtight jars)
+- [ ] Hing (for dal and kadhi) (about 50 g, in an airtight jar)
+- [ ] Kali Mirch (for soup and pasta) (about 100 g, in an airtight jar)
+- [ ] Tej Patta (for rajma and rice) (about 50 g, in an airtight jar)
+- [ ] Besan (for kadhi, aloo pakora and the aloo patty) (about 2 kg, in double bags)
+- [ ] Poha (about 2 kg)
+- [ ] Soya Sauce and Vinegar (for fried rice and noodles) (about 700 ml each)
+- [ ] Ketchup, Oregano and Chilli Flakes (for macaroni) (about 2 kg ketchup and 100 g each of oregano and chilli flakes)
+- [ ] Biscuits, Rusk or Namkeen (the snacks with early morning tea) (about 6 kg in all)
