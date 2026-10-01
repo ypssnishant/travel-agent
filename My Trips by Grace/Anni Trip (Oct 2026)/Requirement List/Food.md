@@ -17,7 +17,7 @@
 - [ ] Ajwain <span style="color: var(--text-faint)">(200 g, airtight jar)</span>
 - [ ] Khand <span style="color: var(--text-faint)">(5 kg)</span>
 - [ ] Saunf <span style="color: var(--text-faint)">(100 g, airtight jar)</span>
-- [ ] Chai patti <span style="color: var(--text-faint)">(3 boxes of 500 g)</span>
+- [ ] Chai patti <span style="color: var(--text-faint)">(2 boxes of 500 g; start with 1)</span>
 - [ ] Soya Chunks (Nutri) <span style="color: var(--text-faint)">(1.5 kg)</span>
 - [ ] Black Chana <span style="color: var(--text-faint)">(2 kg, double bags)</span>
 - [ ] White Chana <span style="color: var(--text-faint)">(2 kg, double bags)</span>
