@@ -23,6 +23,7 @@
 
 - [ ] Gas Chulha
 - [ ] Gas Cylender
+- [ ] Fridge
 - [ ] Lighter
 - [ ] Cooker (3 Ltr)
 - [ ] Kadhai (Big)
