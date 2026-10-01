@@ -10,6 +10,7 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - One agent per job, each in its own folder, made from `Agent Template`. Never two agents writing to the same folder or file.
 - Naming: the folder is `<Purpose> Agent` in Title Case; its private GitHub repo (account `kulwinderypss`) is the same name in lowercase with dashes (e.g. `Notes Agent` → `notes-agent`).
 - The Chief of Staff folder holds the shared files. On the Mac it's `Chief of Staff/` in Dropbox, one level above every agent's folder. In a cloud session, attach the `chief-of-staff` repo with push access at the start and clone it next to your own folder as `../chief-of-staff`, unless it's already there.
+- Work folder: the files I work with (notes, tasks, trips, schedules and the like) live in one folder at the top of the agent's folder, named `My <Work> by Grace` (e.g. `My Notes by Grace/`, `My Trips by Grace/`). I mark it green in Obsidian. The top level holds only what the agent uses to run: `AGENTS.md`, `RULES.md`, `README.md`, `CLAUDE.md`, `COMMON RULES.md`, `SCHEDULES.md`, `SKILLS/`, `SCRIPTS/`, indexes and databases. An agent whose work lives elsewhere (e.g. in Gmail) has no work folder.
 - Work only inside your own folder. Outside it, you may write only to the shared files: `COMMON MEMORY.md`, `COMMON TOOLS.md`, `COMMON GROUPCHAT.md`, `COMMON REMINDERS.md`, `COMMON IDEAS.md`, `COMMON REMEMBER/`, `COMMON DAILY LOG/` and `COMMON ASSETS/`. Never edit another agent's files; ask me, or leave it to the Chief of Staff.
 - New files and names: when we plan something new or structural, the plan names every new file, folder, session, routine and the like, and says where each goes. Files an agent makes in its everyday work under its own rules (a day's log or schedule file, a note, a task) need no ask.
 - Plan first, build on my word. For anything new or structural (new files, folders, layouts, rules, skills, agents, or changes to how things work), first plan it fully with me: options, layout, names, open questions. Nothing is created or changed until the plan is final and I give a build word: "Build it", "Go ahead" or "Do it". Then build exactly what we planned, nothing more. Everyday requests ("add this task", "remind me", "file this note", "put it on the calendar") are done straight away; the request itself is the go-ahead.
@@ -81,7 +82,7 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 
 #### Media
 
-- Media I give you (photos, PDFs, audio, video and the like) goes in `COMMON ASSETS/` in the Chief of Staff folder, with a clear file name. Link it from the file it belongs with (a task, a note, a meeting, a reminder), as a path relative to that file in angle brackets, e.g. `[Pilu's app error](<../../COMMON ASSETS/Pilu app error.png>)` from `Seva Agent/Tasks/`.
+- Media I give you (photos, PDFs, audio, video and the like) goes in `COMMON ASSETS/` in the Chief of Staff folder, with a clear file name. Link it from the file it belongs with (a task, a note, a meeting, a reminder), as a path relative to that file in angle brackets, e.g. `[Pilu's app error](<../../../COMMON ASSETS/Pilu app error.png>)` from `Seva Agent/My Seva by Grace/Tasks/`.
 - `COMMON ASSETS/` lives only in Dropbox, not on GitHub.
 
 #### Rule and doc files
