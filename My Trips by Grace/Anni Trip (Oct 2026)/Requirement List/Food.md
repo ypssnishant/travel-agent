@@ -4,6 +4,8 @@
 
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 
+#### Carry from Base
+
 - [ ] Mustard Oil <span style="color: var(--text-faint)">(5 L, sealed can)</span>
 - [ ] Haldi <span style="color: var(--text-faint)">(250 g, airtight jar)</span>
 - [ ] Long <span style="color: var(--text-faint)">(50 g, airtight jar)</span>
@@ -47,3 +49,24 @@
 - [ ] Soya Sauce and Vinegar (for fried rice and noodles) <span style="color: var(--text-faint)">(700 ml each)</span>
 - [ ] Ketchup, Oregano and Chilli Flakes (for macaroni) <span style="color: var(--text-faint)">(2 kg ketchup, 100 g each oregano and chilli flakes)</span>
 - [ ] Biscuits, Rusk or Namkeen (the snacks with early morning tea) <span style="color: var(--text-faint)">(6 kg in all)</span>
+
+#### Buy Locally in Anni
+
+- [ ] Aloo <span style="color: var(--text-faint)">(5 kg a week)</span>
+- [ ] Tamatar <span style="color: var(--text-faint)">(3 kg a week; dal, rajma, sabzi)</span>
+- [ ] Adrak <span style="color: var(--text-faint)">(250 g a week; chai, dal)</span>
+- [ ] Hari Mirch <span style="color: var(--text-faint)">(250 g a week)</span>
+- [ ] Hara Dhaniya <span style="color: var(--text-faint)">(4 bunches a week)</span>
+- [ ] Nimbu <span style="color: var(--text-faint)">(12 a week; salads)</span>
+- [ ] Matar <span style="color: var(--text-faint)">(2 kg a week; aloo matar, poha, fried rice)</span>
+- [ ] Gajar <span style="color: var(--text-faint)">(2 kg a week; noodles, fried rice, pasta)</span>
+- [ ] Shimla Mirch <span style="color: var(--text-faint)">(1 kg a week; noodles, pasta, fried rice)</span>
+- [ ] Patta Gobhi <span style="color: var(--text-faint)">(2 heads a week; noodles, fried rice)</span>
+- [ ] Phool Gobhi <span style="color: var(--text-faint)">(2 heads a week; mix veg)</span>
+- [ ] Beans <span style="color: var(--text-faint)">(1 kg a week; mix veg, fried rice)</span>
+- [ ] Kheera <span style="color: var(--text-faint)">(2 kg a week; salads, raita)</span>
+- [ ] Dahi <span style="color: var(--text-faint)">(1 kg a day, or set from local milk)</span>
+- [ ] Fresh Milk <span style="color: var(--text-faint)">(3 L a day; chai, coffee, dahi)</span>
+- [ ] Makhan <span style="color: var(--text-faint)">(500 g a week; parathas, sandwiches)</span>
+- [ ] Bread <span style="color: var(--text-faint)">(4 packets a week; sandwiches)</span>
+- [ ] Kulcha or Pav <span style="color: var(--text-faint)">(24 a week; for kulche, 2 days a week)</span>
