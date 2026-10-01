@@ -1,18 +1,16 @@
-# Other Essentials
+# Power & Electricals
 
 ##### ॐ श्री आशुतोषाय नमः
 
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 
-
-- [ ] Small padlock
-- [ ] Pen and notebook
-- [ ] Zip bags (20)
-- [ ] Soap
-- [ ] Detergent
-- [ ] Cloth Cleaning Brush
-- [ ] Arti Speaker
-- [ ] Laundry detergent (1 kg)
-- [ ] Clothes pegs (10)
-- [ ] Garbage bags
-- [ ] Water bottle
+- [ ] Headlamp with spare batteries
+- [ ] Power bank
+- [ ] Charger
+- [ ] Charging cables
+- [ ] Multi-plug
+- [ ] Hair Dryer
+- [ ] Extension Boards
+- [ ] Electric Sandwich Maker
+- [ ] Hand Blender
+- [ ] Power adapters

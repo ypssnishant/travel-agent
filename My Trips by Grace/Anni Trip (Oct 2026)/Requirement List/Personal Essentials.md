@@ -6,6 +6,7 @@
 
 #### Toiletries
 
+
 - [ ] Toothbrush (2) and toothpaste (2)
 - [ ] Tongue cleaner
 - [ ] Soap (6 bars) with a soap box
@@ -13,7 +14,6 @@
 - [ ] Facewash
 - [ ] Quick-dry towels (2) and a hand towel (1)
 - [ ] Comb
-- [ ] Hair Dryer
 - [ ] Nail cutter
 - [ ] Razor and blades, or a trimmer
 - [ ] Toilet paper (6 rolls)
@@ -22,6 +22,10 @@
 - [ ] Toiletry pouch
 - [ ] Small mirror
 - [ ] My regular medicines (a month plus 5 days)
+- [ ] Glasses and a spare pair
+- [ ] Earplugs
+- [ ] Water bottle
+- [ ] Sewing kit and safety pins
 
 #### Skin and Cold Care
 
@@ -32,18 +36,3 @@
 - [ ] Sunglasses
 - [ ] Foot cream or petroleum jelly
 - [ ] Insect repellent (2)
-
-#### Hygiene
-
-- [ ] Laundry detergent (1 kg)
-- [ ] Clothes pegs (10)
-- [ ] Garbage bags
-- [ ] Water bottle
-
-#### Light and Power
-
-- [ ] Headlamp with spare batteries
-- [ ] Power bank
-- [ ] Charger
-- [ ] Charging cables
-- [ ] Multi-plug
