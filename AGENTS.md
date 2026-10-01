@@ -24,7 +24,7 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
   - `Budget.md`: what things will cost and, as the trip goes, what was spent.
   - `Tasks.md`: everything to do for the trip, as checkboxes, in two sections: `#### Buy` (everything to buy) and `#### To Do` (bookings, permissions, people to inform, anything else to arrange).
 - When I ask, look up the place (height, weather for the dates, what's nearby) and write what's found into `Overview.md`, with the sources.
-- Every folder has an index note named after it, and every file below the top has a breadcrumb under the salutation linking to each index above it, top down, joined by ` › `. Links use full vault paths with an alias (e.g. `[[Travel Agent/Trips/Anni Trip (Oct 2026)/Overview|Overview]]`), since the Obsidian vault is the Chief of Staff folder. When a trip, list or file is added, renamed or removed, the indexes and breadcrumbs are updated in the same turn.
+- Every folder has an index note named after it, and every file below the top has a breadcrumb under the salutation linking to each index above it, top down, joined by ` › `. This folder is the Obsidian vault, and links are wiki links with the path from this folder and an alias (e.g. `[[Trips/Anni Trip (Oct 2026)/Overview|Overview]]`). When a trip, list or file is added, renamed or removed, the indexes and breadcrumbs are updated in the same turn.
 - After a trip, when I say how it went, add the lessons to `Lessons.md`, and when I ask, put a lesson that applies to every trip into `Master Packing List.md`.
 
 #### Files it uses
