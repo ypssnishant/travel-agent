@@ -33,7 +33,7 @@
 - [ ] Jam <span style="color: var(--text-faint)">(2 kg)</span>
 - [ ] Dry Bundi (Raita) <span style="color: var(--text-faint)">(2 kg; set dahi from local milk, keep near heater)</span>
 - [ ] Sandwich Sauces (Red & White) <span style="color: var(--text-faint)">(1 kg each)</span>
-- [ ] Coffee Jars <span style="color: var(--text-faint)">(2 jars of 200 g)</span>
+- [ ] Coffee Pouches <span style="color: var(--text-faint)">(100 pouches)</span>
 - [ ] Dry Pakora <span style="color: var(--text-faint)">(2 kg)</span>
 - [ ] Wheat Atta <span style="color: var(--text-faint)">(30 kg)</span>
 - [ ] Aloo and Adrak for the first week <span style="color: var(--text-faint)">(7 kg aloo, 250 g adrak, from base for week 1)</span>
