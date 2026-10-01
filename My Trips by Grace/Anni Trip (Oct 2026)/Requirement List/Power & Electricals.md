@@ -9,5 +9,4 @@
 - [ ] Charging cables
 - [ ] Multi-plug
 - [ ] Extension Boards
-
 - [ ] Power adapters
