@@ -10,8 +10,10 @@
 - [ ] Tongue cleaner
 - [ ] Soap (6 bars) with a soap box
 - [ ] Shampoo (1 large bottle)
+- [ ] Facewash
 - [ ] Quick-dry towels (2) and a hand towel (1)
 - [ ] Comb
+- [ ] Hair Dryer
 - [ ] Nail cutter
 - [ ] Razor and blades, or a trimmer
 - [ ] Toilet paper (6 rolls)
@@ -23,6 +25,7 @@
 #### Skin and Cold Care
 
 - [ ] Cold cream (1 big tube)
+- [ ] Moisturizer
 - [ ] Lip balm (3)
 - [ ] Sunscreen
 - [ ] Sunglasses
@@ -34,10 +37,12 @@
 - [ ] Laundry detergent (1 kg)
 - [ ] Clothes pegs (10)
 - [ ] Garbage bags
+- [ ] Water bottle
 
 #### Light and Power
 
 - [ ] Headlamp with spare batteries
 - [ ] Power bank
+- [ ] Charger
 - [ ] Charging cables
 - [ ] Multi-plug
