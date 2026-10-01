@@ -55,13 +55,6 @@
 - [ ] Slippers or sandals for camp (1 pair)
 - [ ] Flip-flops for washing (1 pair)
 
-##### Other
-
-- [ ] Sun cap (1)
-- [ ] Laundry bag (1)
-- [ ] Belt (1)
-- [ ] Sadhna asan (1)
-- [ ] Sadhna blanket or shawl (1)
 
 #### Toiletries
 
@@ -96,3 +89,11 @@
 - [ ] Sunglasses
 - [ ] Foot cream or petroleum jelly
 - [ ] Insect repellent (2)
+
+##### Other
+
+- [ ] Sun cap (1)
+- [ ] Laundry bag (1)
+- [ ] Belt (1)
+- [ ] Sadhna asan (1)
+- [ ] Sadhna blanket or shawl (1)
