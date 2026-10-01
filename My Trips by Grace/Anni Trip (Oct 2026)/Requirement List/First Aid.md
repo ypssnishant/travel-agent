@@ -6,7 +6,6 @@
 
 #### Medicines
 
-- [ ] My regular medicines (a month plus 5 days)
 - [ ] Paracetamol (30)
 - [ ] Pain tablets (20)
 - [ ] Cold and flu tablets

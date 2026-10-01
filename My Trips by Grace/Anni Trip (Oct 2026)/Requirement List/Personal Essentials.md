@@ -21,6 +21,7 @@
 - [ ] Hand sanitiser (3)
 - [ ] Toiletry pouch
 - [ ] Small mirror
+- [ ] My regular medicines (a month plus 5 days)
 
 #### Skin and Cold Care
 
