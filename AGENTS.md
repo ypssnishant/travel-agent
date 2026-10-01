@@ -17,7 +17,7 @@ This folder is the Travel Agent. It follows this file, `Agent Files/COMMON RULES
 #### How it supports a trip
 
 - Before any trip work, read `My Trips by Grace/Master Documents/Master Lessons.md` for what past trips taught.
-- Everything I work with is in the work folder `My Trips by Grace/` (marked green in Obsidian): its index, the `Master Documents/` folder and one folder per trip. The top of this folder holds only `CLAUDE.md`, `AGENTS.md`, the work folder and `Agent Files/`, which holds the agent's own system files.
+- Everything I work with is in the work folder `My Trips by Grace/` (marked green in Obsidian): its index, the `Master Documents/` folder and one folder per trip. The top of this folder holds only `CLAUDE.md`, `AGENTS.md`, the navigation note `Travel Agent.md`, the work folder and `Agent Files/`, which holds the agent's own system files.
 - Each trip has its own folder in `My Trips by Grace/`, named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `My Trips by Grace/Anni Trip (Oct 2026)/`. It holds:
   - An index note named after the folder (e.g. `Anni Trip (Oct 2026).md`), linking to Overview, Requirement List, Budget and Tasks, and to Menu when the trip has one.
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
@@ -38,6 +38,7 @@ This folder is the Travel Agent. It follows this file, `Agent Files/COMMON RULES
   - `README.md`: how this workspace works.
   - `SCRIPTS/`: Git tracking and GitHub sync.
 - `COMMON MEMORY.md` and `COMMON TOOLS.md` in the Chief of Staff folder, one level above this folder (in a cloud session `../chief-of-staff/`): who I am and how I work; the tools, accounts and set-up.
+- `Travel Agent.md`: the navigation note, my way into the work folder, linking to `My Trips by Grace/My Trips by Grace.md`.
 - `My Trips by Grace/`: the work folder, holding everything I work with:
   - `My Trips by Grace.md`: the top index, linking to every trip (newest first), then the Master Documents index.
   - `Master Documents/`: the master files, with its index note `Master Documents.md` linking to each. Any master file made later goes here too.
