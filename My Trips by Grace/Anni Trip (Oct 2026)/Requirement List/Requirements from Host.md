@@ -42,8 +42,6 @@
 - [ ] Spoons (12)
 - [ ] Jugs (2)
 - [ ] Water Rabber / Camper (1)
-- [ ] Dishwasher Soap (6)
-- [ ] Scrub (3)
 
 ##### Office Setup
 

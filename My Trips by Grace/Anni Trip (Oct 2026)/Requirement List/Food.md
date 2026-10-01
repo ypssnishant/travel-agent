@@ -49,6 +49,18 @@
 - [ ] Ketchup, Oregano and Chilli Flakes (for macaroni) <span style="color: var(--text-faint)">(2 kg ketchup, 100 g each oregano and chilli flakes)</span>
 - [ ] Biscuits, Rusk or Namkeen (the snacks with early morning tea) <span style="color: var(--text-faint)">(6 kg in all)</span>
 
+##### Kitchen Equipment
+
+- [ ] Kitchen cloth
+- [ ] Napkins
+- [ ] Dishwash Soap <span style="color: var(--text-faint)">(6)</span>
+- [ ] Scrub <span style="color: var(--text-faint)">(3)</span>
+- [ ] Electric Sandwich Maker
+- [ ] Hand Blender
+- [ ] Disposals
+- [ ] Strainer <span style="color: var(--text-faint)">(pasta, noodles)</span>
+- [ ] Grater <span style="color: var(--text-faint)">(raita, aloo patty)</span>
+
 #### Buy Locally in Anni
 
 - [ ] Aloo <span style="color: var(--text-faint)">(5 kg a week)</span>
