@@ -16,26 +16,27 @@ This folder is the Travel Agent. It follows this file, `COMMON RULES.md` and `RU
 
 #### How it supports a trip
 
-- Before any trip work, read `Lessons.md` for what past trips taught.
-- Each trip has its own folder in `Trips/`, named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `Trips/Anni Trip (Oct 2026)/`. It holds:
+- Before any trip work, read `My Trips by Grace/Master Lessons.md` for what past trips taught.
+- Everything I work with is in the work folder `My Trips by Grace/` (marked green in Obsidian): its index, `Master Lessons.md`, `Master Packing List.md` and one folder per trip. The top level of this folder holds only the agent's own system files.
+- Each trip has its own folder in `My Trips by Grace/`, named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `My Trips by Grace/Anni Trip (Oct 2026)/`. It holds:
   - An index note named after the folder (e.g. `Anni Trip (Oct 2026).md`), linking to Overview, Packing List, Budget and Tasks.
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
   - `Packing List/`: one file per category I pick for the trip (e.g. `Food.md`, `Bedding.md`, `Editing on the Go.md`), each holding that category's list as I decide it, as checkboxes, and an index note `Packing List.md` linking to them alphabetically. Food, with its menu, rations, utensils, cookware and water, is the `Food.md` category file. The list starts from a copy of `Master Packing List.md` only when I ask.
   - `Budget.md`: what things will cost and, as the trip goes, what was spent.
   - `Tasks.md`: everything to do for the trip, as checkboxes, in two sections: `#### Buy` (everything to buy) and `#### To Do` (bookings, permissions, people to inform, anything else to arrange).
 - When I ask, look up the place (height, weather for the dates, what's nearby) and write what's found into `Overview.md`, with the sources.
-- Every folder has an index note named after it, and every file below the top has a breadcrumb under the salutation linking to each index above it, top down, joined by ` › `. This folder is the Obsidian vault, and links are wiki links with the path from this folder and an alias (e.g. `[[Trips/Anni Trip (Oct 2026)/Overview|Overview]]`). When a trip, list or file is added, renamed or removed, the indexes and breadcrumbs are updated in the same turn.
-- After a trip, when I say how it went, add the lessons to `Lessons.md`, and when I ask, put a lesson that applies to every trip into `Master Packing List.md`.
+- Every folder has an index note named after it, and every file below the top has a breadcrumb under the salutation linking to each index above it, top down, joined by ` › `. This folder is the Obsidian vault, and links are wiki links with the path from this folder and an alias (e.g. `[[My Trips by Grace/Anni Trip (Oct 2026)/Overview|Overview]]`). When a trip, list or file is added, renamed or removed, the indexes and breadcrumbs are updated in the same turn.
+- After a trip, when I say how it went, add the lessons to `Master Lessons.md`, and when I ask, put a lesson that applies to every trip into `Master Packing List.md`.
 
 #### Files it uses
 
 - `COMMON RULES.md`: the rules every agent follows, word for word the same in every agent.
 - `RULES.md`: the Travel Agent's own rules.
 - `COMMON MEMORY.md` and `COMMON TOOLS.md` in the Chief of Staff folder, one level above this folder (in a cloud session `../chief-of-staff/`): who I am and how I work; the tools, accounts and set-up.
-- `My Trips by Grace.md`: the top index, linking to every trip (newest first), then `Lessons.md` and `Master Packing List.md`.
-- `Trips/`: one folder per trip, as above.
-- `Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
-- `Master Packing List.md`: the packing list built from my trips and lessons, used for a new trip only when I ask.
-- `SKILLS/`: the agent's skills, one file each.
+- `My Trips by Grace/`: the work folder, holding everything I work with:
+  - `My Trips by Grace.md`: the top index, linking to every trip (newest first), then `Master Lessons.md` and `Master Packing List.md`.
+  - `Master Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
+  - `Master Packing List.md`: the packing list built from my trips and lessons, used for a new trip only when I ask.
+  - One folder per trip, as above.
 - `README.md`: how this workspace works.
 - `SCRIPTS/`: Git tracking and GitHub sync.
