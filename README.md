@@ -12,9 +12,10 @@ The Travel Agent supports Kulwinder's planning of trips and tours, seva or perso
 - `RULES.md`: the rules only the Travel Agent follows.
 - `CLAUDE.md`: loads `AGENTS.md`, `COMMON RULES.md` and `RULES.md` into Claude.
 - `My Trips by Grace/`: the work folder (marked green in Obsidian), holding everything Kulwinder works with; the top level of this folder holds only the agent's own system files. Inside it:
-  - `My Trips by Grace.md`: the top index in Obsidian, linking to every trip (newest first), then `Master Lessons.md` and `Master Packing List.md`.
-  - `Master Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
-  - `Master Packing List.md`: the packing list built from Kulwinder's trips and lessons, used for a new trip only when he asks.
+  - `My Trips by Grace.md`: the top index in Obsidian, linking to every trip (newest first), then the Master Documents index.
+  - `Master Documents/`: the master files, with its index note `Master Documents.md` linking to each; any master file made later goes here too:
+    - `Master Lessons.md`: lessons from every trip, grouped by topic, each noting the trip it came from.
+    - `Master Requirement List.md`: the requirement list built from Kulwinder's trips and lessons, used for a new trip only when he asks.
   - One folder per trip, named `<Name> Trip (<Mon YYYY>)`, with the start month and year in brackets after the trip's name (e.g. `Anni Trip (Oct 2026)/`), each holding an index note named after the folder, `Overview.md`, `Budget.md`, `Tasks.md` (Buy and To Do) and a `Requirement List/` folder with its index note `Requirement List.md`, one file per category Kulwinder picks for the trip (food, with its menu and water, is the `Food.md` category file) and `Requirements from Host.md` (what the host arranges for us).
 - Indexes and breadcrumbs: every folder has an index note named after it, every file below the top has a breadcrumb under the salutation linking to each index above it, and links are wiki links with the path from this folder and an alias, e.g. `[[My Trips by Grace/Anni Trip (Oct 2026)/Overview|Overview]]` (this folder is the Obsidian vault).
 - The shared files in the Chief of Staff folder (in a cloud session, the `chief-of-staff` repo cloned next to this folder as `../chief-of-staff`): `COMMON MEMORY.md`, `COMMON TOOLS.md`, `COMMON GROUPCHAT.md`, `COMMON REMINDERS.md`, `COMMON IDEAS.md`, `COMMON REMEMBER/`, `COMMON DAILY LOG/` (one file per day, where this agent's lines start with `Travel Agent:`) and `COMMON ASSETS/` (media, in Dropbox only).
