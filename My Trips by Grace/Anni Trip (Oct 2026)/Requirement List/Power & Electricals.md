@@ -10,3 +10,5 @@
 - [ ] Multi-plug
 - [ ] Extension Boards
 - [ ] Power adapters
+- [ ] Room Heater
+- [ ] Clothing Iron

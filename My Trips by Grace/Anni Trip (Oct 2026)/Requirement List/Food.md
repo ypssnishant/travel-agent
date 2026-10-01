@@ -55,6 +55,8 @@
 - [ ] Napkins
 - [ ] Dishwash Soap <span style="color: var(--text-faint)">(6)</span>
 - [ ] Scrub <span style="color: var(--text-faint)">(3)</span>
+- [ ] Electric Sandwich Maker
+- [ ] Hand Blender
 - [ ] Disposals
 - [ ] Strainer <span style="color: var(--text-faint)">(pasta, noodles)</span>
 - [ ] Grater <span style="color: var(--text-faint)">(raita, aloo patty)</span>
