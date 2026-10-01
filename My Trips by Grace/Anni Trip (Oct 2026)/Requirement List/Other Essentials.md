@@ -10,7 +10,6 @@
 - [ ] Zip bags (20)
 - [ ] Soap
 - [ ] Cloth Cleaning Brush
-- [ ] Arti Speaker
 - [ ] Laundry detergent (3–4 kg)
 - [ ] Clothes pegs (30–40)
 - [ ] Clothes hangers
