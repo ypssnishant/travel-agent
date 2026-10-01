@@ -12,3 +12,4 @@
 - [ ] Oil
 - [ ] Match Box
 - [ ] Maharaj Ji Aasan
+- [ ] Arti Speaker
