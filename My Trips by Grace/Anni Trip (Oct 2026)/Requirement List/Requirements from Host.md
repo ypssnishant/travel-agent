@@ -63,9 +63,4 @@
 #### Maharaj Ji Darbar & Sadhna Hall
 
 - [ ] Table – 1
-- [ ] Maharaj Ji Swaroop
-- [ ] White Chadar
-- [ ] Arti Plate
-- [ ] Diya + Bati + Oil
-- [ ] Match Box
 
