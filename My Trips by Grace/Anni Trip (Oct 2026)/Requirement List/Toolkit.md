@@ -7,6 +7,9 @@
 #### Tools
 
 - [ ] Hammer
+- [ ] Screwdriver set
+- [ ] Pliers
+- [ ] Cutter
 - [ ] Adjustable spanner
 - [ ] Hand saw
 - [ ] Measuring tape

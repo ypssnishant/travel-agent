@@ -25,5 +25,4 @@
 - [ ] Toilet brush
 - [ ] Liquid handwash
 - [ ] Matchbox
-- [ ] Small toolkit (screwdriver, pliers, cutter)
 - [ ] Nylon rope, duct tape, cable ties
