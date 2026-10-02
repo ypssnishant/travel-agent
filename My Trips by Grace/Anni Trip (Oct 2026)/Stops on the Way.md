@@ -12,5 +12,6 @@ Stopped here for food.
 
 <span style="color: var(--text-faint)">2 Oct 2026, 11:01 pm</span>
 #### Tea Stop, Garkhal
-Stopped here for tea. Special mention: the tea here was really, really good.
+Stopped here for tea.
+Special mention: the tea here was really, really good.
 [Map](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
