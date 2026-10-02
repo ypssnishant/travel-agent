@@ -8,6 +8,7 @@
 <span style="color: var(--text-faint)">2 Oct 2026, 9:54 pm</span>
 #### Haldiram's, Jabli
 Stopped here for food.
+Special mention: Food here was below average. Not quite the standard we expected from Haldiram.
 [Map](https://maps.app.goo.gl/9wdtY1DZX8MVXc1r9)
 
 <span style="color: var(--text-faint)">2 Oct 2026, 11:01 pm</span>
