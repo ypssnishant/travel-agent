@@ -1,4 +1,4 @@
-# Stationery
+# Stationery & Office Equipment
 
 ##### ॐ श्री आशुतोषाय नमः
 
@@ -35,3 +35,12 @@
 - [ ] Cello tape and glue sticks
 - [ ] Ruler
 - [ ] Stamp pad
+
+#### Office Equipment
+
+
+- [ ] Printer with USB cable
+- [ ] Spare ink
+- [ ] Small folding table
+- [ ] Pen drives
+- [ ] Calculator
