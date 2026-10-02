@@ -6,32 +6,32 @@
 
 #### Writing
 
-- [ ] Ball pens, blue (30)
-- [ ] Ball pens, black (10)
-- [ ] Pencils (10) with eraser (3) and sharpener (2)
-- [ ] Permanent markers (4)
-- [ ] Highlighters (4)
+- [ ] Blue ball pens
+- [ ] Black ball pens
+- [ ] Pencils, erasers and sharpeners
+- [ ] Permanent markers
+- [ ] Highlighters
 
 #### Paper
 
-- [ ] A4 paper (3 reams)
-- [ ] Registers (4)
-- [ ] Notepads (4)
-- [ ] Sticky notes (4 pads)
-- [ ] Envelopes (20)
+- [ ] A4 paper
+- [ ] Registers
+- [ ] Notepads
+- [ ] Sticky notes
+- [ ] Envelopes
 
 #### Filing
 
-- [ ] Files and folders (10)
-- [ ] Transparent sleeve folders (20)
-- [ ] Clipboards (2)
-- [ ] Paper clips (2 boxes) and binder clips (1 box)
-- [ ] Stapler (1) with staple pins (4 boxes)
-- [ ] Paper punch (1)
+- [ ] Files and folders
+- [ ] Transparent sleeve folders
+- [ ] Clipboards
+- [ ] Paper clips and binder clips
+- [ ] Stapler and staple pins
+- [ ] Paper punch
 
 #### Other
 
-- [ ] Scissors (1)
-- [ ] Cello tape (3) and glue sticks (3)
-- [ ] Ruler (1)
-- [ ] Stamp pad (1)
+- [ ] Scissors
+- [ ] Cello tape and glue sticks
+- [ ] Ruler
+- [ ] Stamp pad
