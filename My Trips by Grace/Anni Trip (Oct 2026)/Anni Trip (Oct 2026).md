@@ -5,6 +5,7 @@
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]]
 
 - [[My Trips by Grace/Anni Trip (Oct 2026)/Overview|Overview]]
+- [[My Trips by Grace/Anni Trip (Oct 2026)/Stops on the Way|Stops on the Way]]
 - [[My Trips by Grace/Anni Trip (Oct 2026)/Menu|Menu]]
 - [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
 - [[My Trips by Grace/Anni Trip (Oct 2026)/Budget|Budget]]
