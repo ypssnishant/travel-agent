@@ -38,7 +38,6 @@
 
 #### Office Equipment
 
-
 - [ ] Printer with USB cable
 - [ ] Spare ink
 - [ ] Small folding table
