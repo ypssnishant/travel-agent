@@ -5,13 +5,10 @@
 [[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]]
 
 
+<span style="color: var(--text-faint)">2 Oct 2026, 9:54 pm</span>
 #### Haldiram's, Jabli
+Stopped here for food. [Map](https://maps.app.goo.gl/9wdtY1DZX8MVXc1r9)
 
-- 2 Oct 2026, 9:54 pm
-- Stopped here for food. [Map](https://maps.app.goo.gl/9wdtY1DZX8MVXc1r9)
-
+<span style="color: var(--text-faint)">2 Oct 2026, 11:01 pm</span>
 #### Tea Stop, Garkhal
-
-- 2 Oct 2026, 11:01 pm
-- Stopped here for tea. [Map](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
-- Special mention: the tea here was really, really good.
+Stopped here for tea. Special mention: the tea here was really, really good. [Map](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
