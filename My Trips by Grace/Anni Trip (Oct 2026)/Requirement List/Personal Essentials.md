@@ -8,8 +8,7 @@
 
 ##### Main Wear
 
-- [ ] White kurta pajama sets (7)
-- [ ] Spare pajamas (2)
+- [ ] White kurta pajama sets (5)
 
 ##### Indoors and Casual
 
