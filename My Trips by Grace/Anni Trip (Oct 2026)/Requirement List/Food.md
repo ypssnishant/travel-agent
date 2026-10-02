@@ -36,7 +36,6 @@
 - [ ] Coffee Pouches <span style="color: var(--text-faint)">(100 pouches)</span>
 - [ ] Dry Pakora <span style="color: var(--text-faint)">(2 kg)</span>
 - [ ] Wheat Atta <span style="color: var(--text-faint)">(30 kg)</span>
-- [ ] Aloo and Adrak for the first week <span style="color: var(--text-faint)">(7 kg aloo, 250 g adrak, from base for week 1)</span>
 - [ ] Milk Powder <span style="color: var(--text-faint)">(4–5 kg, if no fresh milk)</span>
 - [ ] Namak and Kala Namak (Kala Namak for raita and chana salad) <span style="color: var(--text-faint)">(2 kg namak, 250 g kala namak, airtight jars)</span>
 - [ ] Rajma Masala, Chhole Masala, Maggi Masala (for kulcha, rajma, noodles, nutri etc) <span style="color: var(--text-faint)">(200 g each, airtight jars)</span>
