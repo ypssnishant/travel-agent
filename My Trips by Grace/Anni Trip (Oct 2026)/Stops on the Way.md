@@ -18,3 +18,4 @@
 - Where: NH-5, Garkhal (Kasauli), Solan, Himachal Pradesh 173209.
 - Map: [Google Maps](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
 - Stopped here for tea.
+- Special mention: the tea here was really, really good.
