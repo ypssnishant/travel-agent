@@ -13,6 +13,7 @@
 - Stopped here for food.
 
 #### Tea Stop, Garkhal
+
 - Date: 2 Oct 2026, on the way to Anni.
 - Where: NH-5, Garkhal (Kasauli), Solan, Himachal Pradesh 173209.
 - Map: [Google Maps](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
