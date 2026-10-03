@@ -24,6 +24,7 @@
 
 - [ ] Gas Chulha
 - [ ] Gas Cylender
+- [ ] Spare gas cylinder
 - [ ] Fridge
 - [ ] Lighter
 - [ ] Cooker (3 Ltr)
