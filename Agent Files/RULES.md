@@ -9,8 +9,16 @@ The rules only the Travel Agent follows. The rules every agent follows are in `A
 
 - A trip folder is named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `Anni Trip (Oct 2026)`. Its index note has the same name.
 - A trip's tasks stay in its own `Tasks.md`, under Buy or To Do. They don't go to My Tasks in the Seva Agent unless I ask.
-- A new trip folder with its index note, `Overview.md`, `Budget.md`, `Tasks.md` and a `Requirement List/` folder holding its index note `Requirement List.md` is created when I start planning a trip; that request is the go-ahead. A category file goes into `Requirement List/` once I pick the category, and `Requirements from Host.md` goes there too, for what the host arranges for us.
+- A new trip folder with its index note, `Overview.md`, `Budget.md`, `Bill Details.md`, `Tasks.md` and a `Requirement List/` folder holding its index note `Requirement List.md` is created when I start planning a trip; that request is the go-ahead. A category file goes into `Requirement List/` once I pick the category, and `Requirements from Host.md` goes there too, for what the host arranges for us.
 - Kulwinder leads the planning. Add what he decides, in his words, to the right trip file. Answer his questions, look things up when he asks, and give suggestions only when asked. Never fill in a plan, list or budget on your own.
+
+#### Budget
+
+- After every transaction, update the budget file and show total spent and the difference from the targeted max expenditure. For Anni Trip (Oct 2026), the targeted max expenditure is ₹20,000. Show the difference as the amount remaining within the target, or the amount over the target if exceeded.
+
+- Whenever an expenditure entry is added, log its entry date and time alongside it in the budget file, using India time (Asia/Kolkata, IST). Use the time of the user’s entry message; if the user gives a transaction time, record that separately.
+
+- Every trip has a `Bill Details.md` beside `Budget.md`. For every scanned or stored bill, keep only its transaction name or type, total amount, transaction date/time and a link to its specific entry in `Bill Details.md` in the budget. Keep itemized charges, quantities, rates, taxes, bill number and the bill image or file link when available in `Bill Details.md`, not in the budget. Use a unique heading for each bill and an Obsidian foldable callout (`> [!receipt]-`) with the vendor, bill date and total in the title. Preserve the entry date/time in the bill details and record any separately supplied transaction time. If a date or time is unavailable, mark it as not recorded; never infer it from the scanning time. Count each bill only once in the budget totals.
 
 #### Food
 
