@@ -14,7 +14,8 @@ It's very warm in Anni. It's not like Shimla. Shimla is at about 7,200 feet, and
 <span style="color: var(--text-faint)">3 Oct 2026, 7:19 pm</span>
 #### Narrow Roads in the Mountains
 The remote places in the mountains have very narrow roads, so it's not very advisable to take a wide vehicle. You need a powerful vehicle, but it shouldn't be very wide. It becomes very tight sometimes when we pass another vehicle.
-![A vehicle on a narrow mountain road in Himachal (photo from the internet, for illustration)](<https://commons.wikimedia.org/wiki/Special:FilePath/Leh-Manali_Road,_Himachal_Pradesh,_India.jpg?width=1280>)
+![A vehicle on a narrow mountain road in Himachal](<Assets/Narrow mountain road in Himachal.jpg>)
+[View in Dropbox](<https://www.dropbox.com/scl/fi/nywqy95nhuvhba5f18u82/Narrow-mountain-road-in-Himachal.jpg?rlkey=kiwzlp9ol7zvbr7wws7hoqk72&dl=0>)
 
 ---
 
