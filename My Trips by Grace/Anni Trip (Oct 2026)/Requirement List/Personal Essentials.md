@@ -66,6 +66,7 @@
 - [ ] Facewash
 - [ ] Quick-dry towels (2) and a hand towel (1)
 - [ ] Comb
+- [ ] Hair oil
 - [ ] Hair Dryer
 - [ ] Nail cutter
 - [ ] Razor and blades, or a trimmer
