@@ -6,8 +6,8 @@
 <span style="color: var(--text-faint)">3 Oct 2026, 7:20 pm</span>
 #### Anni Is Warm, Unlike Shimla
 It's very warm in Anni. It's not like Shimla. Shimla is at about 7,200 feet, and Anni is at only about 4,100 feet, some 3,000 feet lower, probably a valley, so it's not cold at all. It's pretty warm, at least today, in the first week of October. Something we need to keep in mind.
-![A sunny green valley in Himachal (photo from the internet, for illustration)](<https://commons.wikimedia.org/wiki/Special:FilePath/Road_Valley_Batheri_Mandi_Himachal_Jul20_D72_16720.jpg?width=1280>)
-Photo: Road Valley Batheri, Mandi, Himachal, Wikimedia Commons, CC BY-SA 4.0 ([source](https://commons.wikimedia.org/wiki/File:Road_Valley_Batheri_Mandi_Himachal_Jul20_D72_16720.jpg))
+![Terraced fields near Anni](<Assets/Terraced fields near Anni (3 Oct 2026).jpg>)
+[View in Dropbox](https://www.dropbox.com/scl/fi/ige9866r0wb8fmj02grvo/Terraced-fields-near-Anni-3-Oct-2026.jpg?rlkey=amatd2rnmafo9qrgzpi9exfk6&dl=0)
 
 ---
 
@@ -15,7 +15,6 @@ Photo: Road Valley Batheri, Mandi, Himachal, Wikimedia Commons, CC BY-SA 4.0 ([s
 #### Narrow Roads in the Mountains
 The remote places in the mountains have very narrow roads, so it's not very advisable to take a wide vehicle. You need a powerful vehicle, but it shouldn't be very wide. It becomes very tight sometimes when we pass another vehicle.
 ![A vehicle on a narrow mountain road in Himachal (photo from the internet, for illustration)](<https://commons.wikimedia.org/wiki/Special:FilePath/Leh-Manali_Road,_Himachal_Pradesh,_India.jpg?width=1280>)
-Photo: Leh-Manali Road, Himachal Pradesh, Wikimedia Commons, CC BY 4.0 ([source](https://commons.wikimedia.org/wiki/File:Leh-Manali_Road,_Himachal_Pradesh,_India.jpg))
 
 ---
 
