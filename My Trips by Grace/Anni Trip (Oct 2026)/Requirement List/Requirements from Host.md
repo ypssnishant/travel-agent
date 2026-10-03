@@ -11,6 +11,7 @@
 - [ ] Geyser
 - [ ] Washing Machine
 - [ ] Toilet Cleaner
+- [ ] Wipers in each washroom <span style="color: var(--text-faint)">(tell the host ahead of time)</span>
 
 #### Bedding
 
@@ -55,6 +56,7 @@
 - [ ] Cloth hanging Space (Wire)
 - [ ] Cloth Clips
 - [ ] Room Heater
+- [ ] Dustbins <span style="color: var(--text-faint)">(tell the host ahead of time)</span>
 
 ##### Transport
 

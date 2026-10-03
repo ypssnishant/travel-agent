@@ -60,6 +60,7 @@
 
 - [ ] Toothbrush (2) and toothpaste (2)
 - [ ] Tongue cleaner
+- [ ] Cup holder <span style="color: var(--text-faint)">(for the toothbrush, toothpaste and tongue cleaner; easier to keep them together)</span>
 - [ ] Soap (6 bars) with a soap box
 - [ ] Shampoo (1 large bottle)
 - [ ] Facewash

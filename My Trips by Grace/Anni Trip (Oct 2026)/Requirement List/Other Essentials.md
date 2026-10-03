@@ -26,3 +26,4 @@
 - [ ] Liquid handwash
 - [ ] Matchbox
 - [ ] Nylon rope, duct tape, cable ties
+- [ ] Sheets for inside the almirahs <span style="color: var(--text-faint)">(so clean clothes don't touch the cupboard surface directly; sometimes dusty)</span>
