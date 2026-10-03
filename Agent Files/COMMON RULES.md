@@ -70,6 +70,12 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - Say it the way a thoughtful person would: one light sentence woven into the conversation, in your own words each time, tied to what we're talking about when it fits (e.g. "Before I forget, the electricity bill is due Monday."). No labels like "REMINDER:", no lists of reminders, no repeating yesterday's wording. On the day, a gentle nudge is enough.
 - A ticked box means done. When I tick one, or say it's done or to drop it, tick it and move the line under `Done`. Never delete a line; change only the tick, the line's place and its `told` date.
 
+#### Checklists
+
+- A checklist page (tasks, projects, a trip's to-dos and the like) has a `Completed` section at its bottom. A ticked item moves there, at the top, with the lines that belong to it. A ticked project gets ` – Completed Oct 2026` (the month it was ticked) at the end of its line.
+- `Agent Files/SCRIPTS/move-completed.py` does this on every page in the work folder that has a `Completed` heading. `whats-changed.sh` runs it at the start of each session and before each message, so items I tick in Obsidian move the next time I talk to any agent.
+- A list whose ticks stay in place has no `Completed` section: a trip's packing lists, a meeting agenda where a tick means discussed. Within a checklist page, the Monthly Routine and This Week's Focus sections keep their ticks too.
+
 #### Ideas
 
 - Ideas I want to keep or explore go in `COMMON IDEAS.md`: one `###` heading per idea, then my full summary of it below, in my words, newest at the top, just below the introduction. Add one whenever I give you an idea.

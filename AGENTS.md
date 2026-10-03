@@ -25,7 +25,7 @@ This folder is the Travel Agent. It follows this file, `Agent Files/COMMON RULES
   - `Menu.md`, in a trip with a set meal plan: the meal plan: one table per meal, its first column headed with the meal and its time, then With and Per Week (e.g. `| Breakfast · 9:00 AM | With | Per Week |`), the dishes, sides and counts as I give them.
   - `Requirement List/`: one file per category I pick for the trip (e.g. `Food.md`, `Bedding.md`, `Editing on the Go.md`), each holding that category's list as I decide it, as checkboxes (any amounts and notes sit in a short, faint grey bracket after the item name), plus `Requirements from Host.md`: everything we want the host to arrange for us, as I decide it. Its index note `Requirement List.md` links to all of them in the order I set. Food (rations, utensils, cookware and water) is the `Food.md` category file, its items under `#### Carry from Base` and `#### Buy Locally in <Place>`. The category lists start from a copy of `Master Requirement List.md` only when I ask.
   - `Budget.md`: what things will cost and, as the trip goes, what was spent.
-  - `Tasks.md`: everything to do for the trip, as checkboxes, in two sections: `#### Buy` (everything to buy) and `#### To Do` (bookings, permissions, people to inform, anything else to arrange).
+  - `Tasks.md`: everything to do for the trip, as checkboxes, in three sections: `#### Buy` (everything to buy), `#### To Do` (bookings, permissions, people to inform, anything else to arrange) and `#### Completed` at the bottom. A ticked task moves to the top of Completed through `Agent Files/SCRIPTS/move-completed.py`, which `whats-changed.sh` runs at the start of each session and before each message. The requirement lists keep their ticks in place (a tick there means packed or arranged) and have no Completed section.
   - `Review.md`: one bullet per review point, in my words, for future trips. After the trip, its points are carried into `Master Lessons.md`.
   - `Assets/`: the trip's photos, videos and files, in Dropbox only (Git leaves it out). Media in the diary or any trip file is linked as a path relative to that file in angle brackets, e.g. `[Garkhal tea](<Assets/Garkhal tea.jpg>)` from a file in the trip folder, with its Dropbox view link, made with the Dropbox connector, on the line below as `[View in Dropbox](…)`.
 - When I ask, look up the place (height, weather for the dates, what's nearby) and write what's found into `Overview.md`, with the sources.
@@ -39,7 +39,7 @@ This folder is the Travel Agent. It follows this file, `Agent Files/COMMON RULES
   - `COMMON RULES.md`: the rules every agent follows, word for word the same in every agent.
   - `RULES.md`: the Travel Agent's own rules.
   - `README.md`: how this workspace works.
-  - `SCRIPTS/`: Git tracking and GitHub sync.
+  - `SCRIPTS/`: Git tracking and GitHub sync, and `move-completed.py`, which moves ticked tasks to their page's Completed section.
 - `COMMON MEMORY.md` and `COMMON TOOLS.md` in the Chief of Staff folder, one level above this folder (in a cloud session `../chief-of-staff/`): who I am and how I work; the tools, accounts and set-up.
 - `Travel Agent.md`: the navigation note, my way into the work folder, linking to `My Trips by Grace/My Trips by Grace.md`.
 - `My Trips by Grace/`: the work folder, holding everything I work with:

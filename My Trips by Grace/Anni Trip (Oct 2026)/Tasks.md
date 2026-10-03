@@ -9,3 +9,5 @@
 
 - [ ] Get my clothes washed, all of them.
 - [ ] Buy everything that needs to be bought.
+
+#### Completed

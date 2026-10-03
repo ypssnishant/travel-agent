@@ -1,7 +1,7 @@
 #!/bin/bash
 # Run at the start of a session (and, quietly, before each message). Reports (1) changes made
 # in other sessions (pulled from GitHub, if connected) and (2) changes made outside any agent
-# (e.g. in Obsidian), then snapshots and syncs, (4) shows open group chat messages for this agent and (5) unticked reminders due within 3 days.
+# (e.g. in Obsidian), after moving ticked checklist items to their page's Completed section, then snapshots and syncs, (4) shows open group chat messages for this agent and (5) unticked reminders due within 3 days.
 source "$(dirname "$0")/_common.sh"
 QUIET=0; [ "$1" = "--quiet" ] && QUIET=1   # --quiet: say nothing when nothing changed
 
@@ -33,6 +33,9 @@ if [ $HAS_REMOTE = 1 ]; then
     [ $QUIET = 1 ] || echo "Workspace: couldn't reach GitHub (offline?), working with the local copy."
   fi
 fi
+
+# Checklists: move ticked items to their page's Completed section (move-completed.py).
+command -v python3 >/dev/null 2>&1 && [ -f "$(dirname "$0")/move-completed.py" ] && python3 "$(dirname "$0")/move-completed.py" .
 
 # 2. Changes made outside any agent since the last snapshot.
 git add -A >/dev/null 2>&1
