@@ -29,8 +29,7 @@ Really peaceful to be in Nature's lap. The best part — very few people around.
 
 <span style="color: var(--text-faint)">2 Oct 2026, 11:31 pm</span>
 #### Gopal Sweets, Dharampur
-Found on the way; we didn't stop here.
-We could have stopped here for the food instead of Haldiram.
+Found on the way; we didn't stop here. We could have stopped here for the food instead of Haldiram.
 ![Gopal's on the Kalka–Shimla highway, Dharampur](<Assets/Gopal's, Dharampur.jpg>)
 [View in Dropbox](<https://www.dropbox.com/scl/fi/a7nydt8pbjwuwpy4fm7if/Gopal-s-Dharampur.jpg?rlkey=pd9hhlm5go4kyfoeww219q89p&dl=0>)
 [Map](https://maps.app.goo.gl/EwGdDGVS4d4jV9sn6)
@@ -39,8 +38,7 @@ We could have stopped here for the food instead of Haldiram.
 
 <span style="color: var(--text-faint)">2 Oct 2026, 11:01 pm</span>
 #### Akshaya Patra, Garkhal
-Stopped here for tea.
-The tea here was really, really good.
+Stopped here for tea. The tea here was really, really good.
 ![Jabli on the Kalka–Shimla highway, near Garkhal](<Assets/Jabli on the Kalka–Shimla highway.jpg>)
 [View in Dropbox](<https://www.dropbox.com/scl/fi/vnyfu901xenl7a6z0nrz5/Jabli-on-the-Kalka-Shimla-highway.jpg?rlkey=rbd99s369qcihcpcyzexi2uk4&dl=0>)
 [Map](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
@@ -49,8 +47,7 @@ The tea here was really, really good.
 
 <span style="color: var(--text-faint)">2 Oct 2026, 9:54 pm</span>
 #### Haldiram's, Jabli
-Stopped here for food.
-Food here was below average. Not quite the standard we expected from Haldiram.
+Stopped here for food. Food here was below average. Not quite the standard we expected from Haldiram.
 ![Haldiram's on the Kalka–Shimla highway, Jabli](<Assets/Haldiram's, Jabli.jpg>)
 [View in Dropbox](<https://www.dropbox.com/scl/fi/52xsihgxol15vx2nnzepm/Haldiram-s-Jabli.jpg?rlkey=s4udjg8j799y09mzv0yrh715p&dl=0>)
 [Map](https://maps.app.goo.gl/9wdtY1DZX8MVXc1r9)
