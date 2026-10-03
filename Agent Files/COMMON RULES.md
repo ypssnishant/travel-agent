@@ -65,7 +65,7 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 #### Reminders
 
 - Things with a date that I want reminding of go in `COMMON REMINDERS.md`. Add one when I ask; if you notice something with a date, ask me before adding it.
-- The page holds only my reminders, as checkboxes under two headings: `Upcoming`, oldest date first, and `Done`. One line each: `- [ ] 28 Sep 2026 · Pay the electricity bill`, with an optional time after the date (`- [ ] 28 Sep 2026 10:00 · …`).
+- The page holds only my reminders, as checkboxes under two headings: `Upcoming` and `Done`, each sorted by date with the newest at the top. One line each: `- [ ] 28 Sep 2026 · Pay the electricity bill`, with an optional time after the date (`- [ ] 28 Sep 2026 10:00 · …`).
 - From 3 days before the date, `Agent Files/SCRIPTS/whats-changed.sh` shows every unticked reminder; an overdue one shows every day until it's ticked. The agent I'm chatting with mentions it at least once a day, at a natural moment, not always at the start, then adds or updates `· told 3 Oct 2026` at the end of the line, so the other agents don't repeat it that day. On the day itself, it mentions it again closer to the time.
 - Say it the way a thoughtful person would: one light sentence woven into the conversation, in your own words each time, tied to what we're talking about when it fits (e.g. "Before I forget, the electricity bill is due Monday."). No labels like "REMINDER:", no lists of reminders, no repeating yesterday's wording. On the day, a gentle nudge is enough.
 - A ticked box means done. When I tick one, or say it's done or to drop it, tick it and move the line under `Done`. Never delete a line; change only the tick, the line's place and its `told` date.
