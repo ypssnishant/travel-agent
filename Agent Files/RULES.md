@@ -19,7 +19,7 @@ The rules only the Travel Agent follows. The rules every agent follows are in `A
 #### Media
 
 - Each trip folder has its own `Assets/` folder for the trip's photos, videos and files, e.g. `My Trips by Grace/Anni Trip (Oct 2026)/Assets/`. This is where the Travel Agent keeps media; the work folder has no `Assets/` at its top. It lives in Dropbox only; `.gitignore` leaves it out.
-- Media in the diary or any trip file is linked as a path relative to that file in angle brackets, e.g. `[Garkhal tea](<Assets/Garkhal tea.jpg>)` from a file in the trip folder, with `[View in Dropbox](…)` on the line below, made with the Dropbox connector.
+- Media in the diary or any trip file uses a path relative to that file in angle brackets. A photo is embedded with `!` in front so it shows on the page, e.g. `![Garkhal tea](<Assets/Garkhal tea.jpg>)` from a file in the trip folder; other media (PDFs, videos, audio) is a plain link without `!`, e.g. `[Bus tickets](<Assets/Bus tickets.pdf>)`. `[View in Dropbox](…)` goes on the line below, made with the Dropbox connector.
 
 #### Food
 
