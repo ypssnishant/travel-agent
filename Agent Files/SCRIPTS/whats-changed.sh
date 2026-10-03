@@ -1,7 +1,7 @@
 #!/bin/bash
 # Run at the start of a session (and, quietly, before each message). Reports (1) changes made
 # in other sessions (pulled from GitHub, if connected) and (2) changes made outside any agent
-# (e.g. in Obsidian), then snapshots and syncs, (4) shows open group chat messages for this agent and (5) reminders due within 3 days.
+# (e.g. in Obsidian), then snapshots and syncs, (4) shows open group chat messages for this agent and (5) unticked reminders due within 3 days.
 source "$(dirname "$0")/_common.sh"
 QUIET=0; [ "$1" = "--quiet" ] && QUIET=1   # --quiet: say nothing when nothing changed
 
@@ -66,7 +66,7 @@ if [ -n "$CHATDIR" ]; then
   [ -n "$OPEN" ] && { echo "Group chat: open messages for $ME (COMMON GROUPCHAT.md):"; echo "$OPEN"; echo; }
 fi
 
-# 5. Reminders: open reminders due within 3 days, or overdue, from COMMON REMINDERS.md (next to COMMON GROUPCHAT.md).
+# 5. Reminders: unticked reminders due within 3 days, or overdue, from COMMON REMINDERS.md (next to COMMON GROUPCHAT.md).
 if [ -n "$CHATDIR" ] && [ -f "$CHATDIR/COMMON REMINDERS.md" ]; then
   # Dates are written "1 Oct 2026"; compare them as YYYYMMDD numbers.
   TODAY=$(TZ=Asia/Kolkata date +%Y%m%d); TODAY_TXT=$(TZ=Asia/Kolkata date '+%-d %b %Y')
@@ -74,11 +74,10 @@ if [ -n "$CHATDIR" ] && [ -f "$CHATDIR/COMMON REMINDERS.md" ]; then
   LIMIT_TXT=$(TZ=Asia/Kolkata date -v+3d '+%-d %b %Y' 2>/dev/null || TZ=Asia/Kolkata date -d '+3 days' '+%-d %b %Y')
   DUE=$(awk -v t="$TODAY" -v l="$LIMIT" '
     function k(d, mon, y,  i) { i = index("JanFebMarAprMayJunJulAugSepOctNovDec", mon); return i ? y * 10000 + ((i + 2) / 3) * 100 + d : 0 }
-    /^#### Reminders/{m=1;next}
-    m && /^- [0-9][0-9]? [A-Z][a-z][a-z] [0-9][0-9][0-9][0-9]/ && /· open/ {
-      split(substr($0,3), p, " "); d = k(p[1], p[2], p[3]); if (d == 0 || d > l) next
+    /^- \[ \] [0-9][0-9]? [A-Z][a-z][a-z] [0-9][0-9][0-9][0-9]/ {
+      line = "- " substr($0, 7); split(substr($0, 7), p, " "); d = k(p[1], p[2], p[3]); if (d == 0 || d > l) next
       told = 0; if (match($0, /told [0-9][0-9]? [A-Z][a-z][a-z] [0-9][0-9][0-9][0-9]/)) { split(substr($0, RSTART + 5, RLENGTH - 5), q, " "); told = k(q[1], q[2], q[3]) }
-      print $0 (told == t ? "" : "   ← not mentioned yet today") }' "$CHATDIR/COMMON REMINDERS.md")
+      print line (told == t ? "" : "   ← not mentioned yet today") }' "$CHATDIR/COMMON REMINDERS.md")
   [ -n "$DUE" ] && { echo "Reminders due by $LIMIT_TXT (COMMON REMINDERS.md; today is $TODAY_TXT):"; echo "$DUE"; echo; }
 fi
 exit 0
