@@ -78,6 +78,7 @@
 
 - [ ] Mustard oil (5 L can)
 - [ ] Ketchup
+- [ ] Achar
 
 ##### 8. Appliances Box
 

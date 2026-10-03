@@ -47,6 +47,7 @@
 - [ ] Poha <span style="color: var(--text-faint)">(2 kg)</span>
 - [ ] Soya Sauce and Vinegar (for fried rice and noodles) <span style="color: var(--text-faint)">(700 ml each)</span>
 - [ ] Ketchup, Oregano and Chilli Flakes (for macaroni) <span style="color: var(--text-faint)">(2 kg ketchup, 100 g each oregano and chilli flakes)</span>
+- [ ] Achar
 - [ ] Biscuits, Rusk or Namkeen (the snacks with early morning tea) <span style="color: var(--text-faint)">(6 kg in all)</span>
 
 ##### Kitchen Equipment
