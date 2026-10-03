@@ -2,5 +2,3 @@
 
 ##### ॐ श्री आशुतोषाय नमः
 
-[[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]]
-

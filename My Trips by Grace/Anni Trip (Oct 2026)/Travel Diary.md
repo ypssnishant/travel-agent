@@ -2,8 +2,6 @@
 
 ##### ॐ श्री आशुतोषाय नमः
 
-[[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]]
-
 
 <span style="color: var(--text-faint)">2 Oct 2026, 9:54 pm</span>
 #### Haldiram's, Jabli

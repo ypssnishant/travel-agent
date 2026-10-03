@@ -2,8 +2,6 @@
 
 ##### ॐ श्री आशुतोषाय नमः
 
-[[My Trips by Grace/My Trips by Grace|My Trips by Grace]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Anni Trip (Oct 2026)|Anni Trip (Oct 2026)]] › [[My Trips by Grace/Anni Trip (Oct 2026)/Requirement List/Requirement List|Requirement List]]
-
 #### Carry from Base
 
 - [ ] Mustard Oil <span style="color: var(--text-faint)">(5 L, sealed can)</span>
