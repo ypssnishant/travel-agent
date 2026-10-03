@@ -22,3 +22,9 @@ Special mention: the tea here was really, really good.
 Found on the way; we didn't stop here.
 Special mention: We could have stopped here for the food instead of Haldiram.
 [Map](https://maps.app.goo.gl/EwGdDGVS4d4jV9sn6)
+
+<span style="color: var(--text-faint)">3 Oct 2026, 6:26 am</span>
+#### First Morning at Anni
+Really peaceful to be in Nature's lap. The best part — very few people around.
+[Morning view of the river valley from the balcony](<Assets/Morning view of the river valley from the balcony (3 Oct 2026).jpg>)
+[View in Dropbox](<https://www.dropbox.com/scl/fi/g8zu4g6wf1e0lqtvt9fad/Morning-view-of-the-river-valley-from-the-balcony-3-Oct-2026.jpg?rlkey=2lkd59ie7o7qh56f1c4l77jgw&dl=0>)
