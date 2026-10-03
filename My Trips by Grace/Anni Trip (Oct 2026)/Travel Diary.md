@@ -1,4 +1,4 @@
-# Stops on the Way
+# Travel Diary
 
 ##### ॐ श्री आशुतोषाय नमः
 
