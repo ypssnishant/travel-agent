@@ -7,7 +7,7 @@
 #### First Morning at Anni
 Really peaceful to be in Nature's lap. The best part — very few people around.
 ![Morning view of the river valley from the balcony](<Assets/Morning view of the river valley from the balcony (3 Oct 2026).jpg>)
-[View in Dropbox](<https://www.dropbox.com/scl/fi/g8zu4g6wf1e0lqtvt9fad/Morning-view-of-the-river-valley-from-the-balcony-3-Oct-2026.jpg?rlkey=2lkd59ie7o7qh56f1c4l77jgw&dl=0>)
+[View in Dropbox](<https://www.dropbox.com/scl/fi/d5tua27tn1y4m4p56kra5/Morning-view-of-the-river-valley-from-the-balcony-3-Oct-2026.jpg?rlkey=mlvuq45h7agb2boeyggia8bka&dl=0>)
 
 ---
 
@@ -15,8 +15,8 @@ Really peaceful to be in Nature's lap. The best part — very few people around.
 #### Gopal Sweets, Dharampur
 Found on the way; we didn't stop here.
 Special mention: We could have stopped here for the food instead of Haldiram.
-![Gopal's signboard on the Kalka–Shimla highway, Dharampur](<Assets/Gopal's, Dharampur.jpg>)
-[View in Dropbox](<https://www.dropbox.com/scl/fi/stzqnrix2jjiljeenx55s/Gopal-s-Dharampur.jpg?rlkey=doweroi3l7xhu0qn29f7nbxmq&dl=0>)
+![Gopal's on the Kalka–Shimla highway, Dharampur](<Assets/Gopal's, Dharampur.jpg>)
+[View in Dropbox](<https://www.dropbox.com/scl/fi/a7nydt8pbjwuwpy4fm7if/Gopal-s-Dharampur.jpg?rlkey=pd9hhlm5go4kyfoeww219q89p&dl=0>)
 [Map](https://maps.app.goo.gl/EwGdDGVS4d4jV9sn6)
 
 ---
@@ -25,8 +25,8 @@ Special mention: We could have stopped here for the food instead of Haldiram.
 #### Akshaya Patra, Garkhal
 Stopped here for tea.
 Special mention: the tea here was really, really good.
-![Roadside tea in the hills](<Assets/Roadside tea in the hills.jpg>)
-[View in Dropbox](<https://www.dropbox.com/scl/fi/jknkysbjcx9fpj2t6ai9l/Roadside-tea-in-the-hills.jpg?rlkey=hxditvlbuql2s5nwmd5lqrtw1&dl=0>)
+![Jabli on the Kalka–Shimla highway, near Garkhal](<Assets/Jabli on the Kalka–Shimla highway.jpg>)
+[View in Dropbox](<https://www.dropbox.com/scl/fi/vnyfu901xenl7a6z0nrz5/Jabli-on-the-Kalka-Shimla-highway.jpg?rlkey=rbd99s369qcihcpcyzexi2uk4&dl=0>)
 [Map](https://maps.app.goo.gl/KAumwaKsDucnDuYw5)
 
 ---
@@ -36,5 +36,5 @@ Special mention: the tea here was really, really good.
 Stopped here for food.
 Special mention: Food here was below average. Not quite the standard we expected from Haldiram.
 ![Haldiram's on the Kalka–Shimla highway, Jabli](<Assets/Haldiram's, Jabli.jpg>)
-[View in Dropbox](<https://www.dropbox.com/scl/fi/kxs8r0ax0quzlompsv43c/Haldiram-s-Jabli.jpg?rlkey=866xs2ucglursbuenp1mlbqv1&dl=0>)
+[View in Dropbox](<https://www.dropbox.com/scl/fi/52xsihgxol15vx2nnzepm/Haldiram-s-Jabli.jpg?rlkey=s4udjg8j799y09mzv0yrh715p&dl=0>)
 [Map](https://maps.app.goo.gl/9wdtY1DZX8MVXc1r9)

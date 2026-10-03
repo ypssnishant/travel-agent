@@ -76,6 +76,19 @@ The rules every one of my agents follows, the Chief of Staff included. This file
 - `Agent Files/SCRIPTS/move-completed.py` does this on every page in the work folder that has a `Completed` heading. `whats-changed.sh` runs it at the start of each session and before each message, so items I tick in Obsidian move the next time I talk to any agent.
 - A list whose ticks stay in place has no `Completed` section: a trip's packing lists, a meeting agenda where a tick means discussed. Within a checklist page, the Monthly Routine and This Week's Focus sections keep their ticks too.
 
+#### Page kinds
+
+- Every page I use is one of the kinds below. Each kind has a template in `COMMON TEMPLATES/` in the Chief of Staff folder, named after it (e.g. `Diary Page.md`). The `{{…}}` parts are placeholders, filled in when the page is made. When I say "use the diary template for this page", lay the page out from that file.
+- Navigation page: wiki links only, one per line, under short plain labels where useful, e.g. `Chief of Staff.md`.
+- Index page: the note named after its folder, linking to everything in that folder, one wiki link per line, grouped under `####` headings where useful.
+- Checklist page: checkboxes under `####` section headings, with a `Completed` section at the bottom (see Checklists).
+- Diary page: a feed of posts, newest at the top, with a `---` line between posts. Each post is its date and time in faint text, a `####` title and a few lines in my words, then an optional photo with its `[View in Dropbox](…)` link and an optional map link. Photos on a diary page are landscape 16:9, saved as JPEG at most 1920×1080 so the page loads fast. E.g. a trip's `Travel Diary.md`.
+- Note page: the title, the salutation, then the body in my words, with photos showing on the page.
+- Reference page: `####` topic headings with plain bullets under each, added to over time, e.g. `COMMON REMEMBER/General.md`.
+- Log page: one line per item, add-only, each starting with who wrote it, e.g. a `COMMON DAILY LOG/` file.
+- A new kind of page: when an agent makes a page that fits none of these kinds, it tells me and suggests making a template of it. On my word, the Chief of Staff adds the template to `COMMON TEMPLATES/` and the kind to this list.
+- `COMMON TEMPLATES/` is kept by the Chief of Staff; every other agent reads it and never writes to it.
+
 #### Ideas
 
 - Ideas I want to keep or explore go in `COMMON IDEAS.md`: one `###` heading per idea, then my full summary of it below, in my words, newest at the top, just below the introduction. Add one whenever I give you an idea.
