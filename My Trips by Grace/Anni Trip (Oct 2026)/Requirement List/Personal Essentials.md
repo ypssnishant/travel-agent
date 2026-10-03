@@ -97,3 +97,4 @@
 - [ ] Belt (1)
 - [ ] Sadhna asan (1)
 - [ ] Sadhna blanket or shawl (1)
+- [ ] Sheets for inside the almirahs <span style="color: var(--text-faint)">(so clean clothes don't touch the cupboard surface directly; sometimes dusty)</span>
