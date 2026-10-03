@@ -48,6 +48,7 @@
 - [ ] Hing
 - [ ] Tej patta
 - [ ] Kali mirch
+- [ ] Salt and pepper dispensers
 - [ ] Oregano and chilli flakes
 - [ ] Soya sauce and vinegar
 

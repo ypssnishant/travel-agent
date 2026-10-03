@@ -54,6 +54,7 @@
 
 - [ ] Kitchen cloth
 - [ ] Napkins
+- [ ] Salt and pepper dispensers
 - [ ] Dishwash Soap <span style="color: var(--text-faint)">(6)</span>
 - [ ] Scrub <span style="color: var(--text-faint)">(3)</span>
 - [ ] Electric Sandwich Maker
