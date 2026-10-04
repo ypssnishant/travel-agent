@@ -20,7 +20,7 @@ import sys
 
 KEEP_SECTIONS = {"monthly routine", "this week's focus"}
 DATED_PAGES = {"My Projects by Grace.md"}
-SKIP_DIRS = {"Assets", "_Archive", "Projects/Apps"}
+SKIP_DIRS = {"Assets", "_Archive", "node_modules"}
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
 TICKED_RE = re.compile(r"^- \[[xX]\] ")
@@ -108,6 +108,10 @@ def main():
             if any(part.startswith(".") for part in path.relative_to(work).parts):
                 continue
             if any(rel == d or rel.startswith(d + "/") or ("/" + d + "/") in ("/" + rel) for d in SKIP_DIRS):
+                continue
+            # A folder with its own Git repo (e.g. an app) keeps its own files; leave it alone.
+            if any((work / pathlib.Path(*path.relative_to(work).parts[:i]) / ".git").exists()
+                   for i in range(1, len(path.relative_to(work).parts))):
                 continue
             try:
                 n = process(path)
