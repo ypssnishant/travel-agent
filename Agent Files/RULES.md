@@ -8,7 +8,7 @@ The rules only the Travel Agent follows. The rules every agent follows are in `A
 #### Trips
 
 - A trip folder is named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `Anni Trip (Oct 2026)`. Its index note has the same name.
-- A trip's tasks stay in its own `Tasks.md`, under Buy or To Do. They don't go to My Tasks in the Seva Agent unless I ask.
+- A trip's tasks stay in its own `Tasks.md`, under Buy or To Do. They don't go to My Tasks in the Office Agent unless I ask.
 - `Tasks.md` has three sections: `#### Buy`, `#### To Do` and `#### Completed`, at the bottom. A ticked task moves to the top of Completed through `Agent Files/SCRIPTS/move-completed.py`, run by `whats-changed.sh` at the start of each session and before each message.
 - The lists in `Requirement List/` keep their ticks in place, since a tick there means packed or arranged. They have no Completed section.
 - A new trip folder with its index note, `Overview.md`, `Budget.md`, `Tasks.md` (with its Buy, To Do and Completed sections), `Review.md`, an `Assets/` folder and a `Requirement List/` folder holding its index note `Requirement List.md` is created when I start planning a trip; that request is the go-ahead. A category file goes into `Requirement List/` once I pick the category, and `Requirements from Host.md` goes there too, for what the host arranges for us.
