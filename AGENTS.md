@@ -17,7 +17,7 @@ This folder is the Travel Agent. It follows this file, `Agent Files/COMMON RULES
 #### How it supports a trip
 
 - Before any trip work, read `Master Documents/Master Lessons.md` for what past trips taught.
-- The trips themselves are in the work folder `My Trips by Grace/` (marked green in Obsidian): its index and one folder per trip. What every trip draws on is in the reference folder `Master Documents/`, beside the work folder. The top of this folder holds only `CLAUDE.md`, `AGENTS.md`, the navigation note `Travel Agent.md`, the work folder, `Master Documents/` and `Agent Files/`, which holds the agent's own system files. Media lives in each trip's own `Assets/`, so there is no `Assets/` at the top.
+- The trips themselves are in the work folder `My Trips by Grace/`: its index and one folder per trip. What every trip draws on is in the reference folder `Master Documents/`, beside the work folder. The top of this folder holds only `CLAUDE.md`, `AGENTS.md`, the navigation note `Travel Agent.md`, the work folder, `Master Documents/` and `Agent Files/`, which holds the agent's own system files. Media lives in each trip's own `Assets/`, so there is no `Assets/` at the top.
 - Each trip has its own folder in `My Trips by Grace/`, named `<Name> Trip (<Mon YYYY>)`: the trip's name, then its start month and year in brackets, e.g. `My Trips by Grace/Anni Trip (Oct 2026)/`. It holds:
   - An index note named after the folder (e.g. `Anni Trip (Oct 2026).md`), linking to Overview, Requirement List, Budget, Tasks and Review, and to Menu and Travel Diary when the trip has them.
   - `Overview.md`: where, when, how long, who's going, how we get there and back, what the place has and doesn't have (electricity, water, toilets, shops, network), and the weather.
