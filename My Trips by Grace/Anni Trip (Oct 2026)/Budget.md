@@ -16,6 +16,10 @@
 | Vegetables · Entered 3 Oct 2026, 12:30:03 PM IST | 250 |
 | Medicine · Entered 3 Oct 2026, 7:17:58 PM IST | 100 |
 
+| Groceries, vegetables · 4 Oct 2026 · Transaction time not recorded · Recorded 6 Oct 2026, 7:40:29 PM IST | 790 |
+| Cold drink, dahi, prasad, and bread · 4 Oct 2026 · Transaction time not recorded · Recorded 6 Oct 2026, 7:40:29 PM IST | 400 |
+| झाड़ू, kitchen containers, and kitchen scissors · 4 Oct 2026 · Transaction time not recorded · Recorded 6 Oct 2026, 7:40:29 PM IST | 340 |
+
 #### Refreshment
 
 | Transaction | Amount (₹) | Transaction date/time (IST) | Bill details |
@@ -29,8 +33,8 @@
 
 **Refreshment total: ₹2,749.00**
 
-**Total spent: ₹8,934**
+**Total spent: ₹10,464**
 
 **Targeted max expenditure: ₹20,000**
 
-**Remaining within target: ₹11,066**
+**Remaining within target: ₹9,536**
